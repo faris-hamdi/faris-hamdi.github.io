@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Faris_Hamdi_CV.pdf
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -52,9 +52,8 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: '2'
-
-- block: collection
+      columns: 2
+  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -73,7 +72,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: '1'
+      columns: 1
   - block: collection
     id: news
     content:
