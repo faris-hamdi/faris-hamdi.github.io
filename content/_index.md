@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        As an undergraduate research assistant at the Machine Learning and Metaheuristics Optimization Lab at Delta Higher Institute of Engineering and Technology, my research focuses on applying advanced machine learning techniques, deep learning, computer vision, and optimization algorithms to tackle real-world challenges. My work involves developing innovative solutions for problems such as student performance prediction, traffic pattern analysis for smart city development, and enhancing road maintenance and safety. Driven by a passion for artificial intelligence, I am dedicated to advancing these fields and exploring novel methodologies that push the boundaries of current technology. My goal is to contribute to impactful research that leverages AI to drive innovation and solve complex problems.
         
         Please reach out to collaborate 😃
     design:
