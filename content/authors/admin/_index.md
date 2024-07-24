@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Computer Vision Research Assistant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to display in Biography block
 organizations:
