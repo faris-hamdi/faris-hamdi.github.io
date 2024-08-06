@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate ML Optimization Research Assistant at Prof. [Sayed El-kenawy's](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao) Lab
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -55,8 +55,8 @@ education:
 
 work:
   - position: Undergraduate Research Assistant
-    company_name: Machine Learning and Metaheuristics Optimization Lab, Prof. [Sayed El-kenawy's](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao)
-    company_url: ''
+    company_name: Prof. Sayed El-kenawy's Lab
+    company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
     company_logo: ''
     date_start: 2024-01-01
     date_end: ''
