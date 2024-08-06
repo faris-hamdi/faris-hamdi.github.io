@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate ML Research Assistant
+role: Undergraduate ML Optimization Research Assistant at Prof. [Sayed El-kenawy's](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao) Lab
 
 # Organizations/Affiliations to display in Biography block
 organizations:
