@@ -43,8 +43,8 @@ profiles:
 
 interests:
   - Optimization Algorithms
-  - Machine Learning
   - Deep Learning
+  - Machine Learning
 
 education:
   - area: BSc in Electronics and Communication Engineering, 2026 (expected)
@@ -123,4 +123,4 @@ awards:
 
 ## About Me
 
-I am a junior undergraduate student in EECE at Delta Higher Institute of Engineering and Technology (DHIET). I am a research assistant at Prof. [Sayed El-kenawy's](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao) lab, where I am involved in cutting-edge research in Optimization Algorithms, machine learning and Deep Learning. I also serve as the Graphic Design Head at the Google Developer Student Club (GDSC) - DHIET, merging technical expertise with creativity. My extracurricular achievements include securing 2nd place at the DevFest Mansoura Hackathon 2023. Additionally, I gain practical industry experience as a Technician at Dakahlia Water Company. Driven by curiosity and innovation, I seek opportunities to learn, grow, and create impactful solutions. Let's connect and explore collaborative opportunities in technology.
+I am a junior undergraduate student in EECE at Delta Higher Institute of Engineering and Technology (DHIET). I am a research assistant at Prof. [Sayed El-kenawy's](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao) lab, where I am involved in cutting-edge research in Optimization Algorithms, Deep Learning and machine learning. I also serve as the Graphic Design Head at the Google Developer Student Club (GDSC) - DHIET, merging technical expertise with creativity. My extracurricular achievements include securing 2nd place at the DevFest Mansoura Hackathon 2023. Additionally, I gain practical industry experience as a Technician at Dakahlia Water Company. Driven by curiosity and innovation, I seek opportunities to learn, grow, and create impactful solutions. Let's connect and explore collaborative opportunities in technology.
