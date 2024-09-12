@@ -30,7 +30,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:CH2100350@dhiet.edu'
+    url: 'mailto: fareshamdy0000@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/farishamdi0000
@@ -42,8 +42,8 @@ profiles:
     url: https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en
 
 interests:
-  - Optimization Algorithms
   - Deep Learning
+  - Computer Vision
   - Machine Learning
 
 education:
