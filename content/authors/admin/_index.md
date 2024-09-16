@@ -102,42 +102,42 @@ skills:
       - name: Python (proficient), C (intermediate), MATLAB (basic)
         description: 'Proficient in Python, with experience in C and MATLAB for various engineering applications.'
         percent: 80
-        icon: code-bracket
+        icon: ''
 
   - name: Machine Learning Frameworks
     items:
       - name: TensorFlow, Keras, PyTorch, Scikit-learn
         description: 'Experienced in applying machine learning frameworks for building and optimizing models.'
         percent: 100
-        icon: chart-bar
+        icon: ''
 
   - name: Computer Vision Tools
     items:
       - name: OpenCV, dlib, YOLO, Faster R-CNN
         description: 'Skilled in using tools for image classification, object detection, and segmentation tasks.'
         percent: 100
-        icon: eye
+        icon: ''
 
   - name: Data Handling & Visualization
     items:
       - name: NumPy, Pandas, Matplotlib, Seaborn
         description: 'Expertise in data analysis and visualization using Python libraries.'
         percent: 100
-        icon: graph
+        icon: ''
 
   - name: Tools & Version Control
     items:
       - name: LaTeX, Git/GitHub
         description: 'Proficient in LaTeX for scientific writing and Git for version control.'
         percent: 80
-        icon: code
+        icon: ''
 
   - name: Deep Learning Techniques
     items:
       - name: CNNs, transfer learning, object detection, segmentation
         description: 'Deep knowledge in various deep learning techniques for real-world applications.'
         percent: 90
-        icon: brain
+        icon: ''
 
 # Languages
 languages:
