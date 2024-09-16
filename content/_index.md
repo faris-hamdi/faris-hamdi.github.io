@@ -38,61 +38,6 @@ sections:
 
   - block: markdown
     content:
-      title: '🎓 Education'
-      text: |-
-        - **Bachelor’s degree in Engineering (Electronics and Communication Engineering)**  
-          Delta Higher Institute of Engineering and Technology, Mansoura, Egypt  
-          *Sep. 2021 - Jul. 2026*  
-          - GPA: 3.2/4.0  
-          - Concentration: Machine Learning and Computer Vision  
-          - Relevant Coursework: Python Programming, Statistics & Probability, Computer Science I, II, Linear Algebra, Calculus I, II, Discrete Mathematics, Technical Writing.
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title: '🔍 Research Experience'
-      text: |-
-        - **Research Staff**  
-          Applied Machine Learning (AML) Lab, Zewail City Computing Society (ZCCS), Egypt  
-          *Sep. 2024 - Present*  
-          - Collaborating on projects involving computer vision and machine learning, including the development of models for real-time object detection and classification.
-
-        - **Undergraduate Research Assistant**  
-          Applied Machine Learning Lab, Delta Higher Institute of Engineering and Technology, Egypt  
-          *Sep. 2023 - Present*  
-          - Conducting research on computer vision and deep learning, with publications in multiple international conferences and journals.
-    design:
-      columns: '1'
-
-  - block: collection
-    content:
-      title: '📝 Recent Publications on Computer Vision'
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-      text: ""
-    design:
-      view: citation
-
-  - block: markdown
-    content:
-      title: '🚀 Computer Vision Projects'
-      text: |-
-        - **Pothole Detection in Asphalt Roads Using AlexNet Model**  
-          Developed a computer vision system using the AlexNet model for real-time pothole detection in asphalt roads, achieving 92.15% accuracy. Published findings at ITC-Egypt 2024.
-
-        - **Face Mask Detection Using MobileNetV2**  
-          Built a deep learning model with MobileNetV2 for detecting face masks during the COVID-19 pandemic, achieving 97.71% accuracy.
-
-        - **Oil Spill Detection Using Satellite Imagery**  
-          Collaborated on a project utilizing satellite imagery and advanced segmentation techniques for oil spill detection, achieving 96.88% accuracy.
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
       title: '💻 Technical Skills'
       text: |-
         - **Programming Languages:** Python (proficient), C (intermediate), MATLAB (basic)  
@@ -104,6 +49,18 @@ sections:
     design:
       columns: '1'
   
+
+  - block: collection
+    content:
+      title: '📝 Recent Publications'
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+      text: ""
+    design:
+      view: citation
+
   - block: cta-card
     demo: true
     content:
