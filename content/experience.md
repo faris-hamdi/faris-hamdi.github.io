@@ -18,18 +18,12 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
- - block: markdown
+  - block: resume-skills
     content:
-      title: '💻 Technical Skills'
-      text: |-
-        - **Programming Languages:** Python (proficient), C (intermediate), MATLAB (basic)  
-        - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
-        - **Computer Vision Tools:** OpenCV, dlib, YOLO, Faster R-CNN, Image Segmentation Techniques  
-        - **Deep Learning Techniques:** CNNs, transfer learning, object detection, image classification  
-        - **Data Handling & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
-        - **Tools & Version Control:** LaTeX, Git/GitHub
+      title: Skills & Hobbies
+      username: admin
     design:
-      columns: '1'
+      show_skill_percentage: false
   - block: resume-awards
     content:
       title: Awards
