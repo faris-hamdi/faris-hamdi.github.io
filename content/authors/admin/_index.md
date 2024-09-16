@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Research Assistant
+role: Undergraduate Research Assistant | Research Staff
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Delta Higher Institute of Engineering and Technology
+  - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
 
 # Social network links
@@ -47,16 +47,16 @@ profiles:
 
 # Interests
 interests:
-  - Deep Learning
   - Computer Vision
+  - Deep Learning
   - Machine Learning
   - AI for Social and Economic Development
   - Ethical AI Practices
 
 # Education
 education:
-  - area: Bachelor of Science in Electronics and Communication Engineering
-    institution: Delta Higher Institute of Engineering and Technology, Egypt
+  - area: Bachelor of Engineering in Electronics and Communication Engineering
+    institution: Delta Higher Institute of Engineering and Technology in Egypt, 2026 (expected)
     date_start: 2021-10-01
     date_end: 2026-07-01
     summary: 'Specialization in Machine Learning and Computer Vision with a GPA of 3.2/4.0. Relevant coursework includes Python Programming, Computer Science, Statistics, Linear Algebra, and more.'

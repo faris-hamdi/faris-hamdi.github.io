@@ -1,7 +1,7 @@
 ---
 title: Pothole Detection in Asphalt Roads Using AlexNet Model
 date: 2024-05-01
-external_link: 'https://doi.org/10.1109/ITC-Egypt61547.2024.10620566'
+external_link: 'https://github.com/faris-hamdi/Pothole-Detection-in-Asphalt-Roads-Using-Mobile-Car-Computer-Vision-Approach'
 tags:
   - Computer Vision
   - Deep Learning
