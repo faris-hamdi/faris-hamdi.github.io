@@ -83,17 +83,10 @@ work:
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2023-10-01
+    date_start: 2023-8-01
     date_end: ''
     summary: 'Leading the graphic design team to create visually engaging materials for events and workshops, overseeing the design and branding of club projects and promotional content.'
 
-  - position: Operating and Maintenance Technician
-    company_name: Dakahlia Water Company
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-10-01
-    date_end: ''
-    summary: 'Gaining practical industry experience in operating and maintaining water supply systems.'
 
 # Skills
 skills:

@@ -1,20 +1,16 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -23,85 +19,93 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: cover.jpg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+          
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
       text: |-
-        My research focuses on applying advanced Optimization Algorithms, deep learning and machine learning to tackle real-world challenges. My work involves developing new Optimization algorithms to creat innovative solutions for problems such as student performance prediction, traffic pattern analysis for smart city development, and enhancing road maintenance and safety. Driven by a passion for artificial intelligence, I am dedicated to advancing these fields and exploring novel methodologies that push the boundaries of current technology. My goal is to contribute to impactful research that leverages AI to drive innovation and solve complex problems.
-        
-        Please reach out to collaborate 😃
+        My research specializes in computer vision, applying advanced deep learning techniques to solve real-world challenges such as pothole detection, traffic pattern analysis, and oil spill detection. I have developed and optimized computer vision models using architectures like AlexNet, MobileNetV2, and CNNs, achieving high accuracy and real-world applicability.
+
+        I am passionate about advancing computer vision technology to improve public safety, transportation, and environmental monitoring. I welcome collaboration opportunities in this dynamic field! 😃
     design:
       columns: '1'
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      view: article-grid
-#      columns: 2
+
+  - block: markdown
+    content:
+      title: '🎓 Education'
+      text: |-
+        - **Bachelor’s degree in Engineering (Electronics and Communication Engineering)**  
+          Delta Higher Institute of Engineering and Technology, Mansoura, Egypt  
+          *Sep. 2021 - Jul. 2026*  
+          - GPA: 3.2/4.0  
+          - Concentration: Machine Learning and Computer Vision  
+          - Relevant Coursework: Python Programming, Statistics & Probability, Computer Science I, II, Linear Algebra, Calculus I, II, Discrete Mathematics, Technical Writing.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: '🔍 Research Experience'
+      text: |-
+        - **Research Staff**  
+          Applied Machine Learning (AML) Lab, Zewail City Computing Society (ZCCS), Egypt  
+          *Sep. 2024 - Present*  
+          - Collaborating on projects involving computer vision and machine learning, including the development of models for real-time object detection and classification.
+
+        - **Undergraduate Research Assistant**  
+          Applied Machine Learning Lab, Delta Higher Institute of Engineering and Technology, Egypt  
+          *Sep. 2023 - Present*  
+          - Conducting research on computer vision and deep learning, with publications in multiple international conferences and journals.
+    design:
+      columns: '1'
+
   - block: collection
     content:
-      title: Recent Publications
-      text: ""
+      title: '📝 Recent Publications on Computer Vision'
       filters:
         folders:
           - publication
         exclude_featured: false
+      text: ""
     design:
       view: citation
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      view: article-grid
-#      columns: 1
-#  - block: collection
-#    id: news
-#    content:
-#      title: Recent News
-#      subtitle: ''
-#      text: ''
-#      # Page type to display. E.g. post, talk, publication...
-#      page_type: post
-#      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-#      # Filter on criteria
-#      filters:
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
-#      # Choose how many pages you would like to offset by
-#      offset: 0
-#      # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
-#      # Choose a layout view
-#      view: date-title-summary
-      # Reduce spacing
-#      spacing:
-#        padding: [0, 0, 0, 0]
+
+  - block: markdown
+    content:
+      title: '🚀 Computer Vision Projects'
+      text: |-
+        - **Pothole Detection in Asphalt Roads Using AlexNet Model**  
+          Developed a computer vision system using the AlexNet model for real-time pothole detection in asphalt roads, achieving 92.15% accuracy. Published findings at ITC-Egypt 2024.
+
+        - **Face Mask Detection Using MobileNetV2**  
+          Built a deep learning model with MobileNetV2 for detecting face masks during the COVID-19 pandemic, achieving 97.71% accuracy.
+
+        - **Oil Spill Detection Using Satellite Imagery**  
+          Collaborated on a project utilizing satellite imagery and advanced segmentation techniques for oil spill detection, achieving 96.88% accuracy.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: '💻 Technical Skills'
+      text: |-
+        - **Programming Languages:** Python (proficient), C (intermediate), MATLAB (basic)  
+        - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
+        - **Computer Vision Tools:** OpenCV, dlib, YOLO, Faster R-CNN, Image Segmentation Techniques  
+        - **Deep Learning Techniques:** CNNs, transfer learning, object detection, image classification  
+        - **Data Handling & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
+        - **Tools & Version Control:** LaTeX, Git/GitHub
+    design:
+      columns: '1'
+  
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -117,7 +121,6 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
 ---
