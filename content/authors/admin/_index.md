@@ -26,7 +26,7 @@ role: Undergraduate Research Assistant | Research Staff
 organizations:
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
-  - name: Zewail City
+  - name: Zewail City, Egypt
     url: ''
 
 # Social network links
