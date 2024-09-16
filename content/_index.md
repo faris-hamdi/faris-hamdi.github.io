@@ -48,18 +48,6 @@ sections:
     design:
       view: citation
 
-  - block: markdown
-    content:
-      title: '💻 Technical Skills'
-      text: |-
-        - **Programming Languages:** Python (proficient), C (intermediate), MATLAB (basic)  
-        - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
-        - **Computer Vision Tools:** OpenCV, dlib, YOLO, Faster R-CNN, Image Segmentation Techniques  
-        - **Deep Learning Techniques:** CNNs, transfer learning, object detection, image classification  
-        - **Data Handling & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
-        - **Tools & Version Control:** LaTeX, Git/GitHub
-    design:
-      columns: '1'
 
   - block: cta-card
     demo: true
