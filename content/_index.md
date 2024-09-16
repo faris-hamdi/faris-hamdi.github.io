@@ -39,12 +39,12 @@ sections:
 
   - block: collection
     content:
-      title: 'Recent Publications'
+      title: Recent Publications
+      text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-      text: ""
     design:
       view: citation
 
