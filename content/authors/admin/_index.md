@@ -83,7 +83,7 @@ work:
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2023-8-01
+    date_start: 2023-08-01
     date_end: ''
     summary: 'Leading the graphic design team to create visually engaging materials for events and workshops, overseeing the design and branding of club projects and promotional content.'
 
