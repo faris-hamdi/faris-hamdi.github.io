@@ -26,6 +26,8 @@ role: Undergraduate Research Assistant | Research Staff
 organizations:
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
+  - name: Zewail City
+    url: ''
 
 # Social network links
 profiles:
@@ -153,6 +155,6 @@ awards:
 
 ## About Me
 
-I am an undergraduate student specializing in Electronics and Communication Engineering with a concentration in Machine Learning and Computer Vision at the Delta Higher Institute of Engineering and Technology (DHIET), Egypt. As a research assistant in the Applied Machine Learning Lab, supervised by Prof. [El-Sayed M. El-kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en), I contribute to advanced research projects in computer vision, deep learning, and optimization algorithms. Additionally, I work as a Research Staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) at Zewai City, where I collaborate with a multidisciplinary team to advance the lab’s focus on computer vision, NLP, and machine learning.
+I am an undergraduate student specializing in Electronics and Communication Engineering with a concentration in Machine Learning and Computer Vision at the Delta Higher Institute of Engineering and Technology (DHIET), Egypt. As a research assistant in the Applied Machine Learning Lab, supervised by Prof. [El-Sayed M. El-kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en), I contribute to advanced research projects in computer vision, deep learning, and optimization algorithms. Additionally, I work as a Research Staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) at Zewail City, where I collaborate with a multidisciplinary team to advance the lab’s focus on computer vision, NLP, and machine learning.
 
 
