@@ -39,7 +39,7 @@ sections:
 
   - block: collection
     content:
-      title: '📝 Recent Publications'
+      title: 'Recent Publications'
       filters:
         folders:
           - publication
