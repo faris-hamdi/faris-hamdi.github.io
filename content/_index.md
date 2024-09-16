@@ -35,6 +35,18 @@ sections:
         I am passionate about advancing computer vision technology to improve public safety, transportation, and environmental monitoring. I welcome collaboration opportunities in this dynamic field! 😃
     design:
       columns: '1'
+  
+
+  - block: collection
+    content:
+      title: '📝 Recent Publications'
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+      text: ""
+    design:
+      view: citation
 
   - block: markdown
     content:
@@ -48,18 +60,6 @@ sections:
         - **Tools & Version Control:** LaTeX, Git/GitHub
     design:
       columns: '1'
-  
-
-  - block: collection
-    content:
-      title: '📝 Recent Publications'
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-      text: ""
-    design:
-      view: citation
 
   - block: cta-card
     demo: true
