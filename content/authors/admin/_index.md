@@ -36,9 +36,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ch2100350@dhiet.edu.eg'
     label: E-mail Me
-  - icon: brands/x
-    url: 'https://x.com/farishamdi0000'
-    label: X Profile
+  #- icon: brands/x
+  #  url: 'https://x.com/farishamdi0000'
+  #  label: X Profile
   - icon: brands/github
     url: 'https://github.com/faris-hamdi'
     label: GitHub
