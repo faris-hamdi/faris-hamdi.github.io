@@ -26,7 +26,7 @@ role: Undergraduate Student & Researcher
 organizations:
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
-  - name: Zewail City, Egypt
+  - name: Zewail City of Science, Technology and Innovation, Egypt
     url: ''
 
 
