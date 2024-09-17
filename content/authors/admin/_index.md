@@ -68,7 +68,7 @@ education:
 # Work Experience
 work:
   - position: Undergraduate Research Assistant
-    company_name: Applied Machine Learning Lab, Supervisor: Prof. El-Sayed M. El-kenawy 
+    company_name: Applied Machine Learning Lab, Prof. El-Sayed M. El-kenawy 
     company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
     company_logo: ''
     date_start: 2023-09-01
