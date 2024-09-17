@@ -20,14 +20,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Staff | Undergraduate Research Assistant
+role: Undergraduate Student & Researcher
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Zewail City, Egypt
-    url: ''
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
+  - name: Zewail City, Egypt
+    url: ''
+
 
 
 # Social network links
