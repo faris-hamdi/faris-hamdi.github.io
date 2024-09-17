@@ -34,7 +34,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:ch2100350@dhiet.edu.eg'
+    url: 'mailto:Faris.Hamdi.Rizk@outlook.com'
     label: E-mail Me
   #- icon: brands/x
   #  url: 'https://x.com/farishamdi0000'
