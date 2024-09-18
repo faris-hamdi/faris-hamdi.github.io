@@ -26,10 +26,11 @@ role: Undergraduate Student & Researcher
 organizations:
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
+  - name: Computer Science & Intelligent Systems Research Center, Blacksburg, VA, USA
+    url: ''
   - name: Zewail City of Science, Technology and Innovation, Egypt
     url: ''
-  - name: Computer Science and Intelligent Systems Research Center,\\ Blacksburg, Virginia, USA
-    url: ''
+
 
   
 
