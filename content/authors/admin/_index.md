@@ -69,7 +69,7 @@ education:
 
 # Work Experience
 work:
-  - position: Undergraduate Research Assistant
+  - position: Research Assistant
     company_name: 'Supervisor: Prof. El-Sayed M. El-kenawy'
     company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
     company_logo: ''
