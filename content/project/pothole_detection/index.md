@@ -6,6 +6,7 @@ tags:
   - Computer Vision
   - Deep Learning
   - Smart City
+supervisors: sayed
 ---
 
 Developed a computer vision system using the AlexNet model for real-time pothole detection in asphalt roads. The model achieved a 92.15% accuracy, significantly enhancing road maintenance efficiency by enabling real-time detection and alerting.
