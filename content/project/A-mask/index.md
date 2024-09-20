@@ -2,6 +2,7 @@
 title: Face Mask Detection Using MobileNetV2
 date: 2023-03-15
 external_link: 'https://github.com/faris-hamdi/Face-Mask_Detection'
+Supervisor: Independent project
 tags:
   - Computer Vision
   - Deep Learning

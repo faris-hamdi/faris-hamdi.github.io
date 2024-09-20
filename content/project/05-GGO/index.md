@@ -2,13 +2,13 @@
 title: Enhancing Student Performance Prediction Using Greylag Goose Optimization
 date: 2023-03-01
 external_link: 'https://doi.org/10.1109/ITC-Egypt61547.2024.10620568'
+Supervisors: Prof. Marwa M. Eid, Prof. El-Sayed M. El-Kenawy (DHIET, Egypt). 
 tags:
   - Machine Learning
   - Education
   - Performance Prediction
 ---
 
-Supervisors: Prof. Marwa M. Eid, Prof. El-Sayed M. El-Kenawy (DHIET, Egypt). 
 Summary: Led a team to implement the Greylag Goose Optimization (GGO) algorithm for enhancing a Multilayer Perceptron (MLP) Regressor, reducing Mean Squared Error (MSE) significantly.
 
 <!--more-->
