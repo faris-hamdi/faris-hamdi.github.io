@@ -73,7 +73,7 @@ education:
 # Work Experience
 work:
   - position: Undergraduate Research Assistant
-    company_name: Applied Machine Learning Lab, Supervised by Prof. El-Sayed M. El-kenawy 
+    company_name: Supervisor: Prof. El-Sayed M. El-kenawy 
     company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
     company_logo: ''
     date_start: 2023-09-01
@@ -86,7 +86,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 'Collaborating with a multidisciplinary team on advanced research projects in computer vision, NLP, and applied machine learning.'
+    summary: 'Collaborating with a multidisciplinary team on advanced research projects in computer vision, HCI, NLP, and applied machine learning.'
 
   - position: Graphic Design Head
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
