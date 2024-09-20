@@ -98,7 +98,7 @@ work:
 skills:
   - name: Programming Languages
     items:
-      - name: Python (proficient), C (intermediate), MATLAB (basic)
+      - name: Python (proficient), C (intermediate)
         description: 'Proficient in Python, with experience in C and MATLAB for various engineering applications.'
         percent: 80
         icon: ''
