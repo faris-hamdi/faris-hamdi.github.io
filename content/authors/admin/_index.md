@@ -73,7 +73,7 @@ work:
     company_name: Supervisor: Prof. El-Sayed M. El-kenawy 
     company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
     company_logo: ''
-    date_start: 2023-09-01
+    date_start: 2023-01-01
     date_end: ''
     summary: 'Conducting research in computer vision, NLP, and machine learning. Developed models for traffic detection, pothole detection, and oil spill detection using deep learning and optimization algorithms.'
 
