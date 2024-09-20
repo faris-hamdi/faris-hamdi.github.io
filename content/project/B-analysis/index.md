@@ -1,6 +1,6 @@
 ---
 title: Exploratory Data Analysis for Retail Sales Optimization
-date: 2024-03-01
+date: 2023-01-01
 external_link: 'https://github.com/faris-hamdi/Data-Analysis-Projects-and-Tasks/tree/main/EDA_for_superstore_dataset'
 tags:
   - Data Analysis
