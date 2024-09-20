@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy developing innovative solutions using machine learning and computer vision techniques. Below is a selection of projects that highlight my experience in these areas.
+      title: Projects
+      text: Below are the research projects I contributed to, highlighting my experience in these areas. To view the full project publication, click on the project title.
 
       filters:
         folders:
@@ -20,5 +20,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 1
 ---
