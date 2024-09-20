@@ -85,7 +85,7 @@ work:
     date_end: ''
     summary: 'Collaborating with a multidisciplinary team on advanced research projects in computer vision, HCI, NLP, and applied machine learning.'
 
- - position: Graphic Design Head
+  - position: Graphic Design Head
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
     company_url: ''
     company_logo: ''
@@ -98,45 +98,53 @@ work:
 skills:
   - name: Programming Languages
     items:
-      - name: Python (proficient), C (intermediate)
-        description: 'Proficient in Python, with experience in C and MATLAB for various engineering applications.'
-        percent: 80
+    - name: Python (proficient), C/C++ (basic knowledge)
+      description: 'Proficient in Python, with basic knowledge of C/C++ for various applications.'
+      percent: 80
+      icon: ''
+
+  - name: Machine Learning Techniques
+    items:
+      - name: Supervised Learning, Reinforcement Learning, Unsupervised Learning
+        description: 'Familiar with supervised and reinforcement learning techniques,   including Q-Learning and Policy Gradient.'
+        percent: 70
         icon: ''
 
   - name: Machine Learning Frameworks
     items:
-      - name: TensorFlow, Keras, PyTorch, Scikit-learn
-        description: 'Experienced in applying machine learning frameworks for building and optimizing models.'
-        percent: 100
+      - name: Scikit-learn, TensorFlow, Keras, PyTorch
+        description: 'Experienced in applying ML frameworks to build and optimize predictive models.'
+        percent: 90
+        icon: ''
+
+  - name: Deep Learning Techniques
+    items:
+      - name: CNNs, RNNs, Transfer Learning, Object Detection, Segmentation, Attention Mechanisms, GANs, VAEs
+        description: 'Knowledgeable in deep learning techniques including CNNs, RNNs, and attention mechanisms for advanced applications.'
+        percent: 85
         icon: ''
 
   - name: Computer Vision Tools
     items:
       - name: OpenCV, dlib, YOLO, Faster R-CNN
-        description: 'Skilled in using tools for image classification, object detection, and segmentation tasks.'
-        percent: 100
+        description: 'Skilled in using computer vision tools for image classification, object detection, and segmentation.'
+        percent: 90
         icon: ''
 
   - name: Data Handling & Visualization
     items:
       - name: NumPy, Pandas, Matplotlib, Seaborn
-        description: 'Expertise in data analysis and visualization using Python libraries.'
-        percent: 100
+        description: 'Expertise in data manipulation and visualization using Python libraries.'
+        percent: 90
         icon: ''
 
   - name: Tools & Version Control
     items:
-      - name: LaTeX, Git/GitHub
-        description: 'Proficient in LaTeX for scientific writing and Git for version control.'
+      - name: LaTeX, Git, GitHub
+        description: 'Proficient in LaTeX for documentation and Git for version control in collaborative projects.'
         percent: 80
         icon: ''
 
-  - name: Deep Learning Techniques
-    items:
-      - name: CNNs, transfer learning, object detection, segmentation
-        description: 'Deep knowledge in various deep learning techniques for real-world applications.'
-        percent: 90
-        icon: ''
 
 # Languages
 languages:
