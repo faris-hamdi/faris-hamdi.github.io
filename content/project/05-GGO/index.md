@@ -9,7 +9,7 @@ tags:
   - Performance Prediction
 ---
 
-Summary: Led a team to implement the Greylag Goose Optimization (GGO) algorithm for enhancing a Multilayer Perceptron (MLP) Regressor, reducing Mean Squared Error (MSE) significantly.
+Led a team to implement the Greylag Goose Optimization (GGO) algorithm for enhancing a Multilayer Perceptron (MLP) Regressor, reducing Mean Squared Error (MSE) significantly.
 
 <!--more-->
 The project focused on hyperparameter tuning and comparative analysis with other metaheuristic algorithms, improving predictive accuracy and enabling targeted interventions for at-risk students.

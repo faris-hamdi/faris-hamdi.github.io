@@ -9,7 +9,7 @@ tags:
   - Feature Selection
 ---
 
-Summary: Collaborated on developing a robust student performance prediction model by integrating the Binary Waterwheel Plant Algorithm (bWWPA) for feature selection, achieving a notable reduction in MSE.
+Collaborated on developing a robust student performance prediction model by integrating the Binary Waterwheel Plant Algorithm (bWWPA) for feature selection, achieving a notable reduction in MSE.
 
 <!--more-->
 The project emphasized feature engineering and comparative analysis with other algorithms, demonstrating bWWPA's superior performance for complex educational datasets.

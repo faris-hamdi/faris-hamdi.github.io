@@ -9,7 +9,7 @@ tags:
   - Image Analysis
 ---
 
-Summary: Spearheaded the development of an oil spill detection system using Artificial Neural Networks (ANN), achieving 96.88% accuracy by classifying ocean satellite images.
+Spearheaded the development of an oil spill detection system using Artificial Neural Networks (ANN), achieving 96.88% accuracy by classifying ocean satellite images.
 
 <!--more-->
 The project involved processing satellite images and optimizing the model’s performance through feature standardization. Enabled real-time analysis and visualization of outputs, enhancing usability for environmental monitoring agencies.

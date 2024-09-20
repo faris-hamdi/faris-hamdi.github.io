@@ -9,7 +9,7 @@ tags:
   - Smart Cities
 ---
 
-Summary: Applied various deep learning architectures to predict and analyze traffic patterns in urban environments, with AlexNet emerging as the best-performing model, achieving an accuracy of 93.18%.
+Applied various deep learning architectures to predict and analyze traffic patterns in urban environments, with AlexNet emerging as the best-performing model, achieving an accuracy of 93.18%.
 
 <!--more-->
 The project utilized a comprehensive traffic dataset to capture flow dynamics across different times of day. Implemented statistical methods to validate model performance, enhancing reliability for real-time traffic predictions.
