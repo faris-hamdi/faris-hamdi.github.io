@@ -8,7 +8,8 @@ tags:
   - Public Safety
 ---
 
-Supervisors: Dr. Nima Khodadadi (University of Miami, USA), Prof. El-Sayed M. El-Kenawy (DHIET, Egypt).\\ 
+Supervisors: Dr. Nima Khodadadi (University of Miami, USA), Prof. El-Sayed M. El-Kenawy (DHIET, Egypt).\
+
 Summary: Developed and trained a Convolutional Neural Network (CNN) based on the AlexNet architecture for real-time detection of potholes in asphalt roads, achieving 92.15% accuracy, 91.38% sensitivity, and an F-score of 96.52%. Optimized the model using high-performance GPUs for deployment in real-time systems.
 
 <!--more-->
