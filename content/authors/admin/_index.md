@@ -32,9 +32,6 @@ organizations:
     url: ''
 
 
-  
-
-
 
 # Social network links
 profiles:
@@ -88,7 +85,7 @@ work:
     date_end: ''
     summary: 'Collaborating with a multidisciplinary team on advanced research projects in computer vision, HCI, NLP, and applied machine learning.'
 
-  - position: Graphic Design Head
+ - position: Graphic Design Head
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
     company_url: ''
     company_logo: ''
