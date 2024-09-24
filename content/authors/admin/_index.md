@@ -36,7 +36,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:Faris.Hamdi.Rizk@outlook.com'
+    url: 'mailto:Faris.Hamdi.Rizk@gmail.com'
     label: E-mail Me
   #- icon: brands/x
   #  url: 'https://x.com/farishamdi0000'
