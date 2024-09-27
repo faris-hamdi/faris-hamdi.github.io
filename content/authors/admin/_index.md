@@ -95,55 +95,15 @@ work:
 
 
 # Skills
-skills:
-  - name: Programming Languages
-    items:
-    - name: Python (proficient), C/C++ (basic knowledge)
-      description: 'Proficient in Python, with basic knowledge of C/C++ for various applications.'
-      percent: 80
-      icon: ''
+#skills:
+#  - name: Programming Languages
+#    items:
+#    - name: Python (proficient), C/C++ (basic knowledge)
+#      description: 'Proficient in Python, with basic knowledge of C/C++ for various applications.'
+#      percent: 80
+#      icon: ''
 
-  - name: Machine Learning Techniques
-    items:
-      - name: Supervised Learning, Reinforcement Learning, Unsupervised Learning
-        description: 'Familiar with supervised and reinforcement learning techniques,   including Q-Learning and Policy Gradient.'
-        percent: 70
-        icon: ''
-
-  - name: Machine Learning Frameworks
-    items:
-      - name: Scikit-learn, TensorFlow, Keras, PyTorch
-        description: 'Experienced in applying ML frameworks to build and optimize predictive models.'
-        percent: 90
-        icon: ''
-
-  - name: Deep Learning Techniques
-    items:
-      - name: CNNs, RNNs, Transfer Learning, Object Detection, Segmentation, Attention Mechanisms, GANs, VAEs
-        description: 'Knowledgeable in deep learning techniques including CNNs, RNNs, and attention mechanisms for advanced applications.'
-        percent: 85
-        icon: ''
-
-  - name: Computer Vision Tools
-    items:
-      - name: OpenCV, dlib, YOLO, Faster R-CNN
-        description: 'Skilled in using computer vision tools for image classification, object detection, and segmentation.'
-        percent: 90
-        icon: ''
-
-  - name: Data Handling & Visualization
-    items:
-      - name: NumPy, Pandas, Matplotlib, Seaborn
-        description: 'Expertise in data manipulation and visualization using Python libraries.'
-        percent: 90
-        icon: ''
-
-  - name: Tools & Version Control
-    items:
-      - name: LaTeX, Git, GitHub
-        description: 'Proficient in LaTeX for documentation and Git for version control in collaborative projects.'
-        percent: 80
-        icon: ''
+ 
 
 
 # Languages
