@@ -28,8 +28,7 @@ organizations:
     url: ''
   - name: Zewail City Computing Society (ZCCS), Zewail City of Science, Egypt
     url: ''
-  - name: Computer Science & Intelligent Systems Research Center, Blacksburg, VA, USA
-    url: ''
+
 
 
 
