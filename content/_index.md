@@ -13,7 +13,7 @@ sections:
       text: ""
       button:
         text: Download My CV
-        url: uploads/new-resume.pdf
+        url: uploads/faris-resume.pdf
     design:
       css_class: dark
       background:
@@ -26,15 +26,15 @@ sections:
           position: center
           parallax: false
           
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      text: |-
-        My research specializes in computer vision, applying advanced deep learning techniques to solve real-world challenges such as pothole detection, traffic pattern analysis, and oil spill detection. I have developed and optimized computer vision models using architectures like AlexNet, MobileNetV2, and CNNs, achieving high accuracy and real-world applicability.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     text: |-
+  #       My research specializes in computer vision, applying advanced deep learning techniques to solve real-world challenges such as pothole detection, traffic pattern analysis, and oil spill detection. I have developed and optimized computer vision models using architectures like AlexNet, MobileNetV2, and CNNs, achieving high accuracy and real-world applicability.
 
-        I am passionate about advancing computer vision technology to improve public safety, transportation, and environmental monitoring. I welcome collaboration opportunities in this dynamic field! 😃
-    design:
-      columns: '1'
+  #       I am passionate about advancing computer vision technology to improve public safety, transportation, and environmental monitoring. I welcome collaboration opportunities in this dynamic field! 😃
+  #   design:
+  #     columns: '1'
   
 
   - block: collection
