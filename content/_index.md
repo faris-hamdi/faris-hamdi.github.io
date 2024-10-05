@@ -17,7 +17,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           filename: cover.jpg
           filters:
