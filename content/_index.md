@@ -15,7 +15,7 @@ sections:
       #   text: Download My CV
       #   url: uploads/faris-resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: black
         image:
