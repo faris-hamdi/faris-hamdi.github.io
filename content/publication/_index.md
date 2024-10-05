@@ -1,6 +1,7 @@
 ---
 title: Publication
 cms_exclude: true
+id: papers
 
 # View.
 view: citation
