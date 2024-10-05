@@ -54,9 +54,7 @@ profiles:
 interests:
   - Computer Vision
   - Deep Learning
-  - Machine Learning
-  - AI for Social and Economic Development
-  - Ethical AI Practices
+  - Robotics
 
 # Education
 education:
