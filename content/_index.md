@@ -38,9 +38,9 @@ sections:
   
 
   - block: collection
+    id: papers
     content:
       title: Recent Publications
-      id: papers
       text: ""
       filters:
         folders:
