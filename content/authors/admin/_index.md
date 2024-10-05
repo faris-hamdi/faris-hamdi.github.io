@@ -51,7 +51,7 @@ profiles:
     label: Google Scholar
 
 # Interests
-research interests:
+interests:
   - Computer Vision and Language
   - Deep Learning
   - Robotics
