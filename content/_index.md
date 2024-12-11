@@ -7,13 +7,13 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      username: admin
-      text: ""
-      button:
-        text: Download My CV
-        url: uploads/faris-resume.pdf
+  # - block: resume-biography-3
+  #   content:
+  #     username: admin
+  #     text: ""
+  #     button:
+  #       text: Download My CV
+  #       url: uploads/faris-resume.pdf
     design:
       css_class: dark
       background:
