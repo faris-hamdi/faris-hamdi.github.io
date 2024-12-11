@@ -3,11 +3,11 @@
 title: Faris Ibrahim 
 
 # Name pronunciation (optional)
-name_pronunciation: 'Faris Hamdi Rizk Elsayed Ibrahim'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faris
-last_name: Ibrahim
+last_name: Hamdi Rizk Elsayed Ibrahim
 
 # Status emoji
 status:
