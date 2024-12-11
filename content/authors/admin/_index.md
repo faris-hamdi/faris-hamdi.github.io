@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Faris Hamdi Rizk
+title: Faris Ibrahim (Faris Hamdi Rizk Elsayed Ibrahim)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faris
-last_name: Hamdi Rizk
+last_name: Ibrahim
 
 # Status emoji
 status:
@@ -26,6 +26,8 @@ role: Undergraduate Student & Researcher
 organizations:
   - name: Delta Higher Institute of Engineering and Technology, Egypt
     url: ''
+  - name: State University of New York at Buffalo, NY, USA
+    url: ''
   - name: Zewail City Computing Society (ZCCS), Zewail City of Science, Egypt
     url: ''
 
@@ -37,15 +39,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:Faris.Hamdi.Rizk@gmail.com'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: 'https://x.com/farishamdi0000'
-  #  label: X Profile
+  - icon: brands/x
+    url: 'https://x.com/farishamdi0000'
+    label: X Profile
   - icon: brands/github
     url: 'https://github.com/faris-hamdi'
     label: GitHub
-  - icon: brands/linkedin
-    url: 'https://www.linkedin.com/in/fares-hamdy0/'
-    label: LinkedIn
+  # - icon: brands/linkedin
+  #   url: 'https://www.linkedin.com/in/fares-hamdy0/'
+  #  label: LinkedIn
   - icon: academicons/google-scholar
     url: 'https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en'
     label: Google Scholar
@@ -54,42 +56,71 @@ profiles:
 interests:
   - Computer Vision and Language
   - Deep Learning
-  - Robotics
+  - Optimization
 
 # Education
 education:
   - area: Bachelor of Engineering in Electronics and Communication Engineering
     institution: Delta Higher Institute of Engineering and Technology in Egypt, 2026 (expected)
     date_start: 2021-10-01
-    date_end: 2026-07-01
-    summary: 'Specialization in Machine Learning and Computer Vision with a GPA of 3.2/4.0. Relevant coursework includes Python Programming, Computer Science, Statistics, Linear Algebra, and more.'
+    date_end: 2026-06-01
+    summary: 'Focus in Machine Learning and Computer Vision with a GPA of 3.2/4.0. Relevant coursework includes Python Programming, Computer Science, Statistics, Linear Algebra, and more.'
 
 # Work Experience
 work:
-  - position: Research Assistant
-    company_name: 'Supervisor: Prof. El-Sayed M. El-kenawy'
-    company_url: 'https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en&oi=ao'
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: ''
-    summary: 'Conducting research in computer vision, NLP, and machine learning. Developed models for traffic detection, pothole detection, and oil spill detection using deep learning and optimization algorithms.'
 
-  - position: Research Staff
+  - position: Undergraduate Researcher
+    company_name: 'State University of New York at Buffalo, NY, USA (Remotely)'
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: ''
+    summary: 'Contributing to research in computer vision: Human-Object Interaction Detection'
+
+  - position: Research Lead
     company_name: Zewail City Computing Society (ZCCS), Applied Machine Learning (AML) Lab
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 'Collaborating with a multidisciplinary team on advanced research projects in computer vision, HCI, NLP, and applied machine learning.'
+    summary: 'Leading a multidisciplinary team on advanced research projects in computer vision, HCI, NLP, and applied machine learning.'
+
+  - position: Undergraduate Research Assistant
+    company_name: 'Delta Higher Institute of Engineering and Technology, Egypt'
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: ''
+    summary: 'Conducting research in computer vision, Metaheuristic Optimization and machine learning. Developed models for traffic detection, pothole detection, and oil spill detection using deep learning and optimization algorithms.'
+
 
   - position: Graphic Design Head
     company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
+    company_url: 'https://drive.google.com/file/d/17FfMZVDK43AhQQpF4ier5sszLMWX6_JX/view?usp=sharing'
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: '2024-01-01'
+    summary: 'Led a team of 5 designers, increasing ”DevFest” attendance by 30% through impactful promotional campaigns. 
+    Managed the club’s visual identity across digital and print platforms, growing followers by 25%. 
+    Enhanced leadership and project management skills by coordinating team efforts and meeting deadlines.'
+
+  - position: Graphic Designer
+    company_name: Google Developer Student Club (GDSC), Delta Higher Institute of Engineering and Technology
+    company_url: 'https://drive.google.com/file/d/1LEL2XWkw9CP9xlyuRZXDjPvMFHNojlSa/view?usp=sharing'
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: '2023-10-01'
+    summary: 'Designed promotional materials for events, contributing to a 20% increase in social media engagement. 
+    Collaborated with cross-functional teams to ensure cohesive branding and messaging.'
+
+  - position: Human Resources Member
+    company_name: IHOW Organization, Delta Higher Institute of Engineering and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2023-08-01
-    date_end: ''
-    summary: 'Leading the graphic design team to create visually engaging materials for events and workshops, overseeing the design and branding of club projects and promotional content.'
-
+    date_start: 2022-10-01
+    date_end: '2023-01-01'
+    summary: 'Led recruitment and onboarding for 10+ new members, improving team diversity.
+    Facilitated team-building activities to enhance communication and productivity.'
 
 # Skills
 #skills:
@@ -106,9 +137,9 @@ work:
 # Languages
 languages:
   - name: Arabic
-    percent: 100
+    percent: ''
   - name: English
-    percent: 85
+    percent: ''
 
 # Awards
 awards:
@@ -118,11 +149,14 @@ awards:
     awarder: GDG Delta
     icon: trophy
     summary: |
-      Secured 2nd place for innovative project solutions at DevFest Mansoura Hackathon, a major tech event in Egypt organized by Google Developer Group - Delta.
+      Developed a data-driven platform to connect skilled laborers with clients, reducing unemployment and poverty in Egyptian society. 
+      Built predictive models using machine learning to match laborers and clients efficiently.
+      Collaborated with design and development teams, contributing to the project’s technical and user experience elements.
 
 ---
 
 ## About Me
 
-I am a junior undergraduate student in Electronics and Communication Engineering at Delta Higher Institute of Engineering and Technology (DHIET) in Egypt, focusing on Computer Vision and Machine Learning. As a research assistant supervised by Prof. [El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en). I work on advanced projects in computer vision, deep learning, and optimization algorithms. Additionally, I am a research staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) in [Zewail City](https://zewailcity.edu.eg/), where I contribute to research in computer vision, NLP, and machine learning.
+
+I am a researcher and aspiring engineering student specializing in Machine Learning and Computer Vision. I am an undergraduate Researcher at the State University of New York at Buffalo, contributing to research to develop a novel human-object interaction detection model. I am also a research lead at Zewail City Computing Society’s Applied Machine Learning Lab, leading research in computer vision, NLP, and machine learning. My past research at the Delta Higher Institute of Engineering and Technology focused on research on machine learning applications, which has been published in 6 international publications. I am passionate about using AI to solve real-world problems and continue to build innovative, impactful solutions in my work. Don't hesitate to reach out. I welcome collaboration opportunities in this dynamic field! 😃
 
