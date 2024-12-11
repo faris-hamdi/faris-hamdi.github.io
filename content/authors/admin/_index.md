@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Faris Ibrahim (Faris Hamdi Rizk Elsayed Ibrahim)
+title: Faris Ibrahim 
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Faris Hamdi Rizk Elsayed Ibrahim'
 
 # Full name (for SEO)
 first_name: Faris
