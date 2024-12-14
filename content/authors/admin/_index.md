@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Faris Ibrahim 
+title: Faris H. Rizk
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faris
-last_name: Hamdi Rizk Elsayed Ibrahim
+last_name: H. Rizk
 
 # Status emoji
 status:
