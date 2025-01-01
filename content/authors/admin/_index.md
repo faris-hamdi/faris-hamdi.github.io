@@ -45,9 +45,9 @@ profiles:
   - icon: brands/github
     url: 'https://github.com/faris-hamdi'
     label: GitHub
-  # - icon: brands/linkedin
-  #   url: 'https://www.linkedin.com/in/fares-hamdy0/'
-  #  label: LinkedIn
+  - icon: brands/linkedin
+    url: 'https://www.linkedin.com/in/fares-hamdy0/'
+   label: LinkedIn
   - icon: academicons/google-scholar
     url: 'https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en'
     label: Google Scholar
