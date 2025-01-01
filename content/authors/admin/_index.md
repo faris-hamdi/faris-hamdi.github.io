@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Faris H. Rizk
+title: Faris H. Rizk (Ibrahim)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faris
-last_name: H. Rizk
+last_name: H. Rizk (Ibrahim)
 
 # Status emoji
 status:
@@ -47,7 +47,7 @@ profiles:
     label: GitHub
   - icon: brands/linkedin
     url: 'https://www.linkedin.com/in/fares-hamdy0/'
-   label: LinkedIn
+    label: LinkedIn
   - icon: academicons/google-scholar
     url: 'https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en'
     label: Google Scholar
