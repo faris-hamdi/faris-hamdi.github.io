@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Faris H. Rizk (Ibrahim)
+title: Faris H. Rizk
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faris
-last_name: H. Rizk (Ibrahim)
+last_name: H. Rizk
 
 # Status emoji
 status:
@@ -157,6 +157,7 @@ awards:
 
 ## About Me
 
+My Full name: Faris Hamdi Rizk Elsayed Ibrahim
 
 I am a researcher and aspiring engineering student specializing in Machine Learning and Computer Vision. I am an undergraduate Researcher at the State University of New York at Buffalo, contributing to research to develop a novel human-object interaction detection model. I am also a research lead at Zewail City Computing Society’s Applied Machine Learning Lab, leading research in computer vision, NLP, and machine learning. My past research at the Delta Higher Institute of Engineering and Technology focused on research on machine learning applications, which has been published in 6 international publications. I am passionate about using AI to solve real-world problems and continue to build innovative, impactful solutions in my work. Don't hesitate to reach out. I welcome collaboration opportunities in this dynamic field! 😃
 
