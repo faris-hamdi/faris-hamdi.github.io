@@ -161,6 +161,6 @@ Hi, my full name is Faris Hamdi Rizk Elsayed Ibrahim. I’m a researcher and an 
 
 I am an undergraduate Researcher at the State University of New York at Buffalo, contributing to research to develop a novel human-object interaction detection model. I am also a research lead at Zewail City Computing Society’s Applied Machine Learning Lab, leading research in computer vision, NLP, and machine learning.
 
-My research at the Delta Higher Institute of Engineering and Technology focused on metaheuristics optimization and machine learning applications, which has been published in more than 4 international publications exploring applications of machine learning. Through these experiences, I’ve developed a passion for using AI to solve real-world challenges and create meaningful, innovative solutions.
+My research at the Delta Higher Institute of Engineering and Technology focused on metaheuristics optimization and machine learning applications, which resulted in publishing more than 4 international publications. Through these experiences, I’ve developed a passion for using AI to solve real-world challenges and create meaningful, innovative solutions.
 
 I’m always open to new ideas, collaborations, and conversations in this exciting field. Let’s connect!
