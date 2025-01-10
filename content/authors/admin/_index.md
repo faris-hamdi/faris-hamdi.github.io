@@ -157,10 +157,12 @@ awards:
 
 ## About Me
 
-Hi, my full name is Faris Hamdi Rizk Elsayed Ibrahim. I’m a researcher and an aspiring Communications and Electronics Engineering student focusing on Machine Learning and Computer Vision.
+Hello! My name is Faris Hamdi Rizk Elsayed Ibrahim. I’m a researcher and an aspiring Communications and Electronics Engineering student with a keen focus on Machine Learning and Computer Vision.
 
-I am an undergraduate Researcher at the State University of New York at Buffalo, contributing to research to develop a novel human-object interaction detection model. I am also a research lead at Zewail City Computing Society’s Applied Machine Learning Lab, leading research in computer vision, NLP, and machine learning.
+I currently serve as an undergraduate researcher at the State University of New York at Buffalo, contributing to the development of a novel human-object interaction detection model. Additionally, I lead research efforts as the Research Lead at Zewail City Computing Society’s Applied Machine Learning Lab, focusing on cutting-edge advancements in Computer Vision, Natural Language Processing (NLP), and Machine Learning.
 
-My research at the Delta Higher Institute of Engineering and Technology focused on metaheuristics optimization and machine learning applications, which resulted in publishing more than 4 international publications. Through these experiences, I’ve developed a passion for using AI to solve real-world challenges and create meaningful, innovative solutions.
+Previously, my research at the Delta Higher Institute of Engineering and Technology explored metaheuristic optimization and machine learning applications, culminating in six international publications. These experiences have fueled my passion for leveraging AI to address real-world challenges and create meaningful, innovative solutions.
 
-I’m always open to new ideas, collaborations, and conversations in this exciting field. Let’s connect!
+After graduation, I aim to pursue a Ph.D. at a top-tier university in Computer Vision, Applied Machine Learning, or NLP. If my expertise and interests align with the needs of your lab, I would be thrilled to collaborate.
+
+I’m always open to exploring new ideas, engaging in collaborations, and having conversations in this dynamic and exciting field. Let’s connect!
