@@ -159,10 +159,10 @@ awards:
 
 Hello! My name is Faris Hamdi Rizk Elsayed Ibrahim. I’m a researcher and an aspiring Communications and Electronics Engineering student with a keen focus on Machine Learning and Computer Vision.
 
-I currently serve as an undergraduate researcher at the State University of New York at Buffalo, contributing to the development of a novel human-object interaction detection model. Additionally, I lead research efforts as the Research Lead at Zewail City Computing Society’s Applied Machine Learning Lab, focusing on cutting-edge advancements in Computer Vision, Natural Language Processing (NLP), and Machine Learning.
+I am an undergraduate researcher at the State University of New York at Buffalo, where I contribute to developing a novel human-object interaction detection model. I also lead research efforts as the Research Lead at Zewail City Computing Society’s Applied Machine Learning Lab, where I focus on cutting-edge advancements in Computer Vision, Natural Language Processing (NLP), and Machine Learning.
 
 Previously, my research at the Delta Higher Institute of Engineering and Technology explored metaheuristic optimization and machine learning applications, culminating in six international publications. These experiences have fueled my passion for leveraging AI to address real-world challenges and create meaningful, innovative solutions.
 
-After graduation, I aim to pursue a Ph.D. at a top-tier university in Computer Vision, Applied Machine Learning, or NLP. If my expertise and interests align with the needs of your lab, I would be thrilled to collaborate.
+After graduation, I aim to pursue a Ph.D. in Computer Vision, Applied Machine Learning, or NLP at a top-tier university in the USA. If my expertise and interests align with your lab's needs, I would be thrilled to collaborate.
 
-I’m always open to exploring new ideas, engaging in collaborations, and having conversations in this dynamic and exciting field. Let’s connect!
+I’m always open to exploring new ideas, collaborating, and conversing in this dynamic and exciting field. Let’s connect!
