@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student & Researcher
+role: Undergraduate Engineer & Researcher
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -158,7 +158,7 @@ awards:
 ## About Me
 
 Hello!
-My name is Faris Hamdi Rizk Elsayed Ibrahim, and I’m an aspiring junior Communications and Electronics Engineering student with a strong passion for Machine Learning and Computer Vision.
+My name is Faris Hamdi Rizk Elsayed Ibrahim, and I am an undergraduate researcher and aspiring junior Communications and Electronics Engineering student with a strong passion for Machine Learning and Computer Vision.
 
 Currently, I’m an undergraduate researcher at the State University of New York at Buffalo, contributing to the development of a novel human-object interaction detection model. I also serve as the Research Lead at the Zewail City Computing Society’s Applied Machine Learning Lab, where I focus on advancing the frontiers of Computer Vision, Natural Language Processing (NLP), and Machine Learning.
 
