@@ -164,6 +164,6 @@ Currently, I’m an undergraduate researcher at the State University of New York
 
 Previously, my research at the Delta Higher Institute of Engineering and Technology delved into metaheuristic optimization and machine learning applications, culminating in four international publications. These experiences have solidified my passion for leveraging AI to solve real-world problems and deliver impactful, innovative solutions.
 
-After graduation, I aspire to pursue a Ph.D. in Computer Vision, Applied Machine Learning, or NLP at a leading university in the USA. I’m eager to collaborate with researchers and labs that align with my expertise and interests.
+After graduation, I plan to pursue a Ph.D. in Computer Vision, Applied Machine Learning, or Natural Language Processing at a top-tier university in the USA. If my expertise and research interests align with the goals of your lab, I would be excited to explore opportunities for collaboration.
 
 I’m always enthusiastic about exploring new ideas, collaborating on exciting projects, and contributing to the ever-evolving field of AI. Let’s connect and make a difference together!
