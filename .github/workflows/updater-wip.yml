@@ -2,11 +2,11 @@ name: Updater (WIP)
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs every Sunday at midnight UTC
+    - cron: 0 0 * * 0
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to update contents in the repo
+# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: write
 
@@ -15,20 +15,8 @@ jobs:
     if: github.repository_owner == 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Run HugoBlox Updater
-        uses: HugoBlox/gh-action-updater@v1
+      - uses: HugoBlox/gh-action-updater@v1
         with:
           feed-url: https://hugoblox.com/rss.xml
           readme-section: news
           branch: main
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "chore: auto-update news section from RSS feed" || echo "No changes to commit"
-          git push origin main
