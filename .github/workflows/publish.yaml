@@ -4,13 +4,10 @@ env:
   WC_HUGO_VERSION: '0.126.3'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -21,7 +18,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -29,7 +25,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -59,14 +54,11 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
 
-      - name: Upload artifact  # 🔥 FIX: Use `v4` instead of `v3`
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2  # 🔥 Use the correct GitHub Pages upload action
         with:
-          name: github-pages  # ✅ Ensure artifact has a name
-          path: public/       # ✅ Ensure path is relative to workspace
-          retention-days: 1   # ✅ Keep for only 1 day (optional)
+          path: public/  # ✅ Ensure this is correct
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
@@ -77,4 +69,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v2  # ✅ This action automatically picks up uploaded artifacts
