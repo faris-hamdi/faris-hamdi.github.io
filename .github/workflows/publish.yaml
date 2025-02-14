@@ -33,7 +33,7 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -55,9 +55,10 @@ jobs:
         run: npx pagefind --site "public"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # 🔥 Use the correct GitHub Pages upload action
+        uses: actions/upload-artifact@v4  # 🔥 Updated to v4
         with:
-          path: public/  # ✅ Ensure this is correct
+          name: github-pages
+          path: public/
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -69,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2  # ✅ This action automatically picks up uploaded artifacts
+        uses: actions/deploy-pages@v2  # ✅ Ensures correct artifact usage
