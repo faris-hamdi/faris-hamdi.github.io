@@ -123,7 +123,7 @@ awards:
       ML for matching and collaborated on UX and delivery.
 
 ---
-## About Me **OPEN TO PhD POSITIONS (Fall 2026)**.
+## About Me ==[OPEN TO PhD POSITIONS (Fall 2026)]==.
 
 I’m an undergraduate researcher focused on explainable AI (XAI) for medical imaging, computer vision, and vision–language models.
 
