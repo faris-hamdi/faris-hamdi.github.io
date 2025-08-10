@@ -112,15 +112,15 @@ awards:
     awarder: DHIET
     date: "2025-06-01"
     summary: "Also received in 2024."
-    icon: trophy
+    # icon: trophy
   - title: Departmental Student of the Year
     awarder: DHIET
     date: "2025-06-01"
-    icon: academic-cap
+    # icon: academic-cap
   - title: 2nd Place — DevFest Mansoura Hackathon
     awarder: GDG Delta
     date: "2023-12-01"
-    icon: trophy
+    # icon: trophy
     summary: |
       Built a data-driven platform to connect skilled laborers with clients; used
       ML for matching and collaborated on UX and delivery.
