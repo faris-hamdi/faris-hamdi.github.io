@@ -11,7 +11,8 @@ superuser: true
 highlight_name: true
 
 # Tagline
-role: Research Intern @UBuffalo & @DHIET & ex- @CarnegieMellon | Research Lead @ZCCS | ECE Student @ DHIET ’26 
+role: Research Intern @UBuffalo & @DHIET & ex- @CarnegieMellon |
+      Research Lead @ZCCS | ECE Student @ DHIET ’26 
 
 # Organizations (shown in Bio block)
 organizations:
