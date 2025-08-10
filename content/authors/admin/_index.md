@@ -11,7 +11,7 @@ superuser: true
 highlight_name: true
 
 # Tagline
-role: Undergraduate Researcher — XAI for Medical Imaging & Computer Vision
+role: Research Intern @UBuffalo & @DHIET & ex- @CarnegieMellon | Research Lead @ZCCS | ECE Student @ DHIET ’26 
 
 # Organizations (shown in Bio block)
 organizations:
@@ -21,6 +21,8 @@ organizations:
     url: ""
   - name: Zewail City Computing Society — Applied ML Lab, Egypt
     url: ""
+  - name: Ex- Carnegie Mellon University (Remote), USA
+
 
 # Socials
 profiles:
@@ -61,40 +63,38 @@ work:
   - position: Research Intern
     company_name: State University of New York at Buffalo (Remote)
     company_url: ""
+    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/UB.png'
     date_start: 2024-10-01
     date_end: ""
     summary: >
-      First-author project on reinforcement-guided counterfactual explanations (MRI),
-      with multimodal grounding to mitigate shortcut learning; also contributed to
-      human–object interaction (HOI) detection on V-COCO and HICO-DET.
+      Counterfactual explanations (MRI) Reasoning, human–object interaction (HOI) detection
 
   - position: Research Intern — Xu Lab (Prof. Min Xu)
     company_name: Carnegie Mellon University (Remote)
     company_url: ""
+    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/CMU.png'
     date_start: 2025-04-01
     date_end: 2025-07-31
     summary: >
-      Ran controlled experiments for CryoET volume alignment and classification;
-      results submitted to NeurIPS 2025.
+      CryoET volume alignment and classification
 
   - position: Research Lead & Think Tank Member
     company_name: Zewail City Computing Society (Applied ML Lab)
     company_url: ""
+    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/ZCCS.jpeg'
     date_start: 2024-09-01
     date_end: ""
     summary: >
-      Led a computer vision effort for dermoscopic image analysis; addressed class
-      imbalance with augmentation and cost-sensitive learning; helped establish a
-      student-led AI research lab.
+      First student-led AI research labs in Egypt.
 
   - position: Undergraduate Researcher
     company_name: Delta Higher Institute of Engineering & Technology (DHIET)
     company_url: ""
+    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/DHIET.jpg'
     date_start: 2023-01-01
     date_end: ""
     summary: >
-      Metaheuristic optimization and applied ML; co/developed OcOA and iHowOA;
-      applications to medical cytology and smart agriculture.
+      Metaheuristic optimization and applied ML
 
 # Languages
 languages:
@@ -123,12 +123,12 @@ awards:
       ML for matching and collaborated on UX and delivery.
 
 ---
-## About Me ==[OPEN TO PhD POSITIONS (Fall 2026)]==.
+## About Me
 
-I’m an undergraduate researcher focused on explainable AI (XAI) for medical imaging, computer vision, and vision–language models.
+{{% callout note %}}
+**Open to PhD positions (Fall 2026)**
+{{% /callout %}}
 
-At SUNY Buffalo (remote), I’m leading a project on reinforcement-guided, visually grounded counterfactual explanations for MRI to reduce shortcut learning and provide localized reasoning traces. I’ve also contributed to HOI detection (V-COCO, HICO-DET). In Spring–Summer 2025, I interned with CMU’s Xu Lab, running experiments for CryoET volume alignment and classification (submitted to NeurIPS 2025). Earlier at DHIET, I co/developed metaheuristics such as Ocotillo Optimization (OcOA) and iHowOA, with applications in bone marrow cytology and smart agriculture.
+At SUNY Buffalo, I’m leading a project on reinforcement-guided, visually grounded reasoning counterfactual explanations for MRI. I’ve also contributed to human–object interaction (HOI) detection (V-COCO, HICO-DET). In Spring–Summer 2025, I interned with CMU’s Xu Lab, contributed to a project on CryoET volume alignment and classification (submitted to NeurIPS 2025). I’m a Research Lead & Think Tank Member with the Zewail City Computing Society (ZCCS). At DHIET, I led projects in metaheuristic optimization and applied machine learning, co-developing methods such as Ocotillo Optimization (OcOA) and iHowOA.
 
-I’m excited to collaborate on problems at the intersection of interpretability, vision, and multimodal learning—especially where methods can be clinically meaningful and robust.
-
-If our interests align, I’d love to connect about PhD opportunities for Fall 2026.
+I’m excited to collaborate on exciting problems. If our interests align, I’d love to connect about PhD opportunities for Fall 2026.
