@@ -65,38 +65,39 @@ work:
   - position: Research Intern
     company_name: State University of New York at Buffalo (Remote)
     company_url: ""
-    company_logo: '/assets/media/UB.png'
+    company_logo: "ub.png"        # file in assets/media/ub.png
     date_start: 2024-10-01
     date_end: ""
     summary: >
-      Counterfactual explanations (MRI) Reasoning, human–object interaction (HOI) detection
+      Reinforcement-guided, visually grounded counterfactual explanations for MRI; human–object interaction (HOI) detection.
 
   - position: Research Intern — Xu Lab (Prof. Min Xu)
     company_name: Carnegie Mellon University (Remote)
     company_url: ""
-    company_logo: '/assets/media/CMU.png'
+    company_logo: "cmu.svg"       # prefer SVG if available; else cmu.png
     date_start: 2025-04-01
     date_end: 2025-07-31
     summary: >
-      CryoET volume alignment and classification
+      CryoET volume alignment and classification.
 
   - position: Research Lead & Think Tank Member
     company_name: Zewail City Computing Society (Applied ML Lab)
     company_url: ""
-    company_logo: '/assets/media/ZCCS.jpeg'
+    company_logo: "zccs.png"      # convert JPEG to transparent PNG if possible
     date_start: 2024-09-01
     date_end: ""
     summary: >
-      First student-led AI research labs in Egypt.
+      Supervise dermoscopic image-analysis project; address class imbalance via augmentation and cost-sensitive learning.
 
   - position: Undergraduate Researcher
     company_name: Delta Higher Institute of Engineering & Technology (DHIET)
     company_url: ""
-    company_logo: '/assets/media/DHIET.jpg'
+    company_logo: "dhiet.png"     # convert JPG to PNG/SVG if possible
     date_start: 2023-01-01
     date_end: ""
     summary: >
-      Metaheuristic optimization and applied ML
+      Metaheuristic optimization and applied machine learning.
+
 
 # Languages
 languages:
