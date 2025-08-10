@@ -65,7 +65,7 @@ work:
   - position: Research Intern
     company_name: State University of New York at Buffalo (Remote)
     company_url: ""
-    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/UB.png'
+    company_logo: '/assets/media/UB.png'
     date_start: 2024-10-01
     date_end: ""
     summary: >
@@ -74,7 +74,7 @@ work:
   - position: Research Intern — Xu Lab (Prof. Min Xu)
     company_name: Carnegie Mellon University (Remote)
     company_url: ""
-    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/CMU.png'
+    company_logo: '/assets/media/CMU.png'
     date_start: 2025-04-01
     date_end: 2025-07-31
     summary: >
@@ -83,7 +83,7 @@ work:
   - position: Research Lead & Think Tank Member
     company_name: Zewail City Computing Society (Applied ML Lab)
     company_url: ""
-    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/ZCCS.jpeg'
+    company_logo: '/assets/media/ZCCS.jpeg'
     date_start: 2024-09-01
     date_end: ""
     summary: >
@@ -92,7 +92,7 @@ work:
   - position: Undergraduate Researcher
     company_name: Delta Higher Institute of Engineering & Technology (DHIET)
     company_url: ""
-    company_logo: '/workspaces/faris-hamdi.github.io/assets/media/DHIET.jpg'
+    company_logo: '/assets/media/DHIET.jpg'
     date_start: 2023-01-01
     date_end: ""
     summary: >
