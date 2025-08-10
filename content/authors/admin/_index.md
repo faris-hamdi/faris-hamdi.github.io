@@ -132,6 +132,6 @@ awards:
 **Open to PhD positions (Fall 2026)**
 {{% /callout %}}
 
-At SUNY Buffalo, I’m leading a project on reinforcement-guided, visually grounded reasoning counterfactual explanations for MRI. I’ve also contributed to human–object interaction (HOI) detection (V-COCO, HICO-DET). In Spring–Summer 2025, I interned with CMU’s Xu Lab, contributed to a project on CryoET volume alignment and classification (submitted to NeurIPS 2025). I’m a Research Lead & Think Tank Member with the Zewail City Computing Society (ZCCS). At DHIET, I led projects in metaheuristic optimization and applied machine learning, co-developing methods such as Ocotillo Optimization (OcOA) and iHowOA.
+At SUNY Buffalo, I’m working on a project on visually grounded reasoning counterfactual explanations for MRI. I’ve also contributed to human–object interaction (HOI) detection (V-COCO, HICO-DET). In Spring–Summer 2025, I interned with CMU’s Xu Lab, contributed to a project on CryoET volume alignment and classification. I’m a Research Lead & Think Tank Member with the Zewail City Computing Society (ZCCS). At DHIET, I led research projects in metaheuristic optimization and applied machine learning.
 
 I’m excited to collaborate on exciting problems. If our interests align, I’d love to connect about PhD opportunities for Fall 2026.
