@@ -19,9 +19,9 @@ organizations:
     url: ""
   - name: Ex- Carnegie Mellon University (Remote), USA
     url: ""    
-  - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
-    url: ""
   - name: Zewail City Computing Society — Applied ML Lab, Egypt
+    url: ""
+  - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
     url: ""
 
 
