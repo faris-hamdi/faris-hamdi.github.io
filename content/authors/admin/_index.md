@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Engineer & Researcher
+role: Undergraduate Student & Researcher
 
 # Organizations/Affiliations to display in Biography block
 organizations:
