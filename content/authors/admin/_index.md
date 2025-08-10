@@ -11,18 +11,19 @@ superuser: true
 highlight_name: true
 
 # Tagline
-role: Research Intern @UBuffalo & @DHIET & ex- @CarnegieMellon |
-      Research Lead @ZCCS | ECE Student @ DHIET ’26 
+role: Undergraduate Student and Researcher 
 
 # Organizations (shown in Bio block)
 organizations:
-  - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
-    url: ""
   - name: State University of New York at Buffalo (Remote), USA
+    url: ""
+  - name: Ex- Carnegie Mellon University (Remote), USA
+    url: ""    
+  - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
     url: ""
   - name: Zewail City Computing Society — Applied ML Lab, Egypt
     url: ""
-  - name: Ex- Carnegie Mellon University (Remote), USA
+
 
 
 # Socials
