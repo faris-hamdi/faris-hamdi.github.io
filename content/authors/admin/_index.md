@@ -84,6 +84,7 @@ work:
     company_name: Zewail City Computing Society (Applied ML Lab)
     company_url: ""
     company_logo: "zccs.png"      # convert JPEG to transparent PNG if possible
+    icon: "zccs.png"
     date_start: 2024-09-01
     date_end: ""
     summary: >
