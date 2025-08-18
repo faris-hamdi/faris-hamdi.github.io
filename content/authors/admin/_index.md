@@ -67,7 +67,7 @@ work:
     date_start: 2024-10-01
     date_end: ""
     summary: >
-      contributed to research on reasoning of counterfactual explanations for MRI and human–object interaction (HOI) detection.
+      Contributed to research on reasoning of counterfactual explanations for MRI and human–object interaction (HOI) detection.
 
   - position: Research Intern 
     company_name: Carnegie Mellon University (Remote); Xu Lab (Prof. Min Xu)
