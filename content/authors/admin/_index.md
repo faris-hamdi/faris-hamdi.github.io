@@ -60,17 +60,17 @@ education:
 
 # Experience
 work:
-  - position: Research Intern - Visual Computing Lab (Prof. Junsong Yuan)
-    company_name: State University of New York at Buffalo (Remote)
+  - position: Research Intern 
+    company_name: State University of New York at Buffalo (Remote); Visual Computing Lab (Prof. Junsong Yuan)
     company_url: ""
     company_logo: "ub.png"
     date_start: 2024-10-01
     date_end: ""
     summary: >
-      Developed reinforcement-guided counterfactual explanations for MRI and contributed to human–object interaction (HOI) detection.
+      contributed to research on reasoning of counterfactual explanations for MRI and human–object interaction (HOI) detection.
 
-  - position: Research Intern — Xu Lab (Prof. Min Xu)
-    company_name: Carnegie Mellon University (Remote)
+  - position: Research Intern 
+    company_name: Carnegie Mellon University (Remote); Xu Lab (Prof. Min Xu)
     company_url: ""
     company_logo: "cmu.svg"
     date_start: 2025-04-01
@@ -87,8 +87,8 @@ work:
     summary: >
       Leading AI research initiatives; helped establish one of Egypt's first student-led AI research labs.
 
-  - position: Undergraduate Researcher -- Optimization, Metaheuristics, and Applied Machine Learning Lab -- Prof. El-Sayed M. El-Kenawy (Senior Member, IEEE; DHIET), Dr. Nima Khodadadi (UC Berkeley), Prof. Marwa M. Eid (Senior Member, IEEE; DHIET)
-    company_name: Delta Higher Institute of Engineering & Technology (DHIET)
+  - position: Undergraduate Researcher 
+    company_name: Delta Higher Institute of Engineering & Technology (DHIET); Optimization, Metaheuristics, and Applied Machine Learning Lab (Prof. El-Sayed M. El-Kenawy (Senior Member, IEEE; DHIET), Dr. Nima Khodadadi (UC Berkeley), Prof. Marwa M. Eid (Senior Member, IEEE; DHIET))
     company_url: ""
     company_logo: "dhiet.png"
     date_start: 2023-01-01
