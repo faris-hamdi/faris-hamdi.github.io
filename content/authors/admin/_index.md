@@ -24,8 +24,6 @@ organizations:
   - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
     url: ""
 
-
-
 # Socials
 profiles:
   - icon: at-symbol
@@ -58,46 +56,45 @@ education:
     institution: Delta Higher Institute of Engineering & Technology (DHIET)
     date_start: 2021-10-01
     date_end: 2026-06-01
-    summary: "Focus: Machine Learning & Computer Vision"
+    summary: "Focus: Machine Learning, Computer Vision & Language"
 
 # Experience
 work:
   - position: Research Intern
     company_name: State University of New York at Buffalo (Remote)
     company_url: ""
-    company_logo: "ub.png"        # file in assets/media/ub.png
+    company_logo: "ub.png"
     date_start: 2024-10-01
     date_end: ""
     summary: >
-      Reinforcement-guided, visually grounded counterfactual explanations for MRI; human–object interaction (HOI) detection.
+      Developed reinforcement-guided counterfactual explanations for MRI and contributed to human–object interaction (HOI) detection.
 
   - position: Research Intern — Xu Lab (Prof. Min Xu)
     company_name: Carnegie Mellon University (Remote)
     company_url: ""
-    company_logo: "cmu.svg"       # prefer SVG if available; else cmu.png
+    company_logo: "cmu.svg"
     date_start: 2025-04-01
     date_end: 2025-07-31
     summary: >
-      CryoET volume alignment and classification.
+      Worked on CryoET volume alignment and classification experiments.
 
   - position: Research Lead & Think Tank Member
     company_name: Zewail City Computing Society (Applied ML Lab)
     company_url: ""
-    company_logo: "zccs.png"      # convert JPEG to transparent PNG if possible
+    company_logo: "zccs.png"
     date_start: 2024-09-01
     date_end: ""
     summary: >
-      Supervise dermoscopic image-analysis project; address class imbalance via augmentation and cost-sensitive learning.
+      Leading AI research initiatives; helped establish one of Egypt's first student-led AI research labs.
 
   - position: Undergraduate Researcher
     company_name: Delta Higher Institute of Engineering & Technology (DHIET)
     company_url: ""
-    company_logo: "dhiet.png"     # convert JPG to PNG/SVG if possible
+    company_logo: "dhiet.png"
     date_start: 2023-01-01
     date_end: ""
     summary: >
-      Metaheuristic optimization and applied machine learning.
-
+      Conducted research in metaheuristic optimization and applied machine learning.
 
 # Languages
 languages:
@@ -108,30 +105,37 @@ languages:
 
 # Awards
 awards:
-  - title: Dean’s Award for Research Excellence
-    awarder: DHIET
-    date: "2025-06-01"
-    summary: "Also received in 2024."
-    # icon: trophy
-  - title: Departmental Student of the Year
-    awarder: DHIET
-    date: "2025-06-01"
+  # - title: Dean’s Award for Research Excellence
+  #   awarder: DHIET
+  #   date: "2025-06-01"
+  #   summary: "Also received in 2024."
+  #   # icon: trophy
+  # - title: Departmental Student of the Year
+  #   awarder: DHIET
+  #   date: "2025-06-01"
     # icon: academic-cap
   - title: 2nd Place — DevFest Mansoura Hackathon
     awarder: GDG Delta
     date: "2023-12-01"
     # icon: trophy
     summary: |
-      Built a data-driven platform to connect skilled laborers with clients; used
-      ML for matching and collaborated on UX and delivery.
+      Built a data-driven platform connecting skilled laborers with clients, using ML for matching, and collaborated on UX and delivery.
 
 ---
+
 ## About Me
 
 {{% callout note %}}
 **Open to PhD positions (Fall 2026)**
 {{% /callout %}}
 
-At SUNY Buffalo, I’m working on a project on visually grounded reasoning counterfactual explanations for MRI. I’ve also contributed to human–object interaction (HOI) detection (V-COCO, HICO-DET). In Spring–Summer 2025, I interned with CMU’s Xu Lab, contributed to a project on CryoET volume alignment and classification. I’m a Research Lead & Think Tank Member with the Zewail City Computing Society (ZCCS). At DHIET, I led research projects in metaheuristic optimization and applied machine learning.
+I am an undergraduate ECE student at DHIET with a strong focus on Machine Learning, Computer Vision, and AI for medical imaging. I am deeply grateful for the mentorship and guidance I have received from my advisors and supervisors throughout my research journey.  
 
-I’m excited to collaborate on exciting problems. If our interests align, I’d love to connect about PhD opportunities for Fall 2026.
+At SUNY Buffalo, I had the privilege of working with [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html) on visually grounded reasoning for counterfactual explanations in MRI and contributing to Human–Object Interaction (HOI) detection on the V-COCO and HICO-DET datasets.  
+
+In Spring–Summer 2025, I was honored to intern at [Prof. Min Xu’s Xu Lab](https://xulabs.github.io/min-xu/) at CMU, where I contributed to CryoET volume alignment and classification. I am also grateful for the opportunity to serve as Research Lead and Think Tank Member at the [Zewail City Computing Society (ZCCS)](https://eg.linkedin.com/company/zewail-city-computing-society), helping to guide AI research initiatives.  
+
+At DHIET, I have had the privilege to work under the guidance of [Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en) (Senior Member, IEEE), [Dr. Nima Khodadadi](https://nimakhodadadi.com/) (UC Berkeley), and [Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en) (Senior Member, IEEE). I am truly thankful for their mentorship and support, which has been instrumental in co-leading multiple research projects in metaheuristic optimization and applied machine learning.  
+
+I am always excited to collaborate on challenging and meaningful research problems. If our interests align, I would love to connect regarding PhD opportunities for Fall 2026.
+
