@@ -60,7 +60,7 @@ education:
 
 # Experience
 work:
-  - position: Research Intern
+  - position: Research Intern - Visual Computing Lab (Prof. Junsong Yuan)
     company_name: State University of New York at Buffalo (Remote)
     company_url: ""
     company_logo: "ub.png"
@@ -87,7 +87,7 @@ work:
     summary: >
       Leading AI research initiatives; helped establish one of Egypt's first student-led AI research labs.
 
-  - position: Undergraduate Researcher
+  - position: Undergraduate Researcher -- Optimization, Metaheuristics, and Applied Machine Learning Lab -- Prof. El-Sayed M. El-Kenawy (Senior Member, IEEE; DHIET), Dr. Nima Khodadadi (UC Berkeley), Prof. Marwa M. Eid (Senior Member, IEEE; DHIET)
     company_name: Delta Higher Institute of Engineering & Technology (DHIET)
     company_url: ""
     company_logo: "dhiet.png"
@@ -129,9 +129,7 @@ awards:
 **Open to PhD positions (Fall 2026)**
 {{% /callout %}}
 
-I am an undergraduate ECE student at DHIET with a strong focus on Machine Learning, Computer Vision, and AI for medical imaging. I am deeply grateful for the mentorship and guidance I have received from my advisors and supervisors throughout my research journey.  
-
-At SUNY Buffalo, I had the privilege of working with [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html) on visually grounded reasoning for counterfactual explanations in MRI and contributing to Human–Object Interaction (HOI) detection on the V-COCO and HICO-DET datasets.  
+I am an undergraduate ECE student at [DHIET]{https://dhiet.edu.eg/}, passionate about Machine Learning, Computer Vision \& Language. At SUNY Buffalo, I had the privilege of working with [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html) on visually grounded reasoning for counterfactual explanations in MRI and contributing to Human–Object Interaction (HOI) detection on the V-COCO and HICO-DET datasets.  
 
 In Spring–Summer 2025, I was honored to intern at [Prof. Min Xu’s Xu Lab](https://xulabs.github.io/min-xu/) at CMU, where I contributed to CryoET volume alignment and classification. I am also grateful for the opportunity to serve as Research Lead and Think Tank Member at the [Zewail City Computing Society (ZCCS)](https://eg.linkedin.com/company/zewail-city-computing-society), helping to guide AI research initiatives.  
 
