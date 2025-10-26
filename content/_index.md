@@ -41,7 +41,7 @@ sections:
     id: papers
     content:
       title: Recent Publications
-      text: "(*) indicates equal contribution. Full Updated list available at ([Google Scholar](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en))"
+      text: "(*) indicates equal contribution. Full Updated list available at **[Google Scholar](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)**"
       filters:
         folders:
           - publication
