@@ -41,7 +41,7 @@ sections:
     id: papers
     content:
       title: Recent Publications
-      text: "\* indicates equal contribution. Full Updated list available at My Google Scholar page."
+      text: "ٍ(*) indicates equal contribution. Full Updated list available at My Google Scholar page."
       filters:
         folders:
           - publication
