@@ -41,7 +41,7 @@ sections:
     id: papers
     content:
       title: Recent Publications
-      text: "Full Updated list available at: Google Scholar: https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en"
+      text: "Full Updated list available at My Google Scholar page."
       filters:
         folders:
           - publication
