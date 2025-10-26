@@ -11,5 +11,4 @@ date: 2025-01-08
 publishDate: '2025-08-18T10:12:39.692552Z'
 publication_types:
 - manuscript
-doi: 10.21203/rs.3.rs-7087991/v1
 ---

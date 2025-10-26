@@ -11,18 +11,18 @@ superuser: true
 highlight_name: true
 
 # Tagline
-role: Undergraduate Student and Researcher 
+role: Undergraduate Researcher in Machine Learning and Computer Vision
 
 # Organizations (shown in Bio block)
 organizations:
-  - name: State University of New York at Buffalo (Remote), USA
-    url: ""
-  - name: Ex- Carnegie Mellon University (Remote), USA
-    url: ""    
-  - name: Zewail City Computing Society — Applied ML Lab, Egypt
-    url: ""
-  - name: Delta Higher Institute of Engineering & Technology (DHIET), Egypt
-    url: ""
+  - name: State University of New York at Buffalo, USA
+    url: "https://cse.buffalo.edu/~jsyuan/index.html"
+  - name: Carnegie Mellon University, USA
+    url: "https://xulabs.github.io/min-xu/"
+  - name: Brownian Labs — Applied Machine Learning Lab, Egypt
+    url: "https://www.linkedin.com/company/brownian-labs/"
+  - name: Delta Higher Institute for Engineering and Technology (DHIET), Egypt
+    url: "https://dhiet.edu.eg/"
 
 # Socials
 profiles:
@@ -38,63 +38,84 @@ profiles:
   - icon: brands/x
     url: "https://x.com/farishamdi0000"
     label: X / Twitter
-  # If you want to add later:
-  # - icon: brands/github
-  #   url: "https://github.com/<your-username>"
-  #   label: GitHub
+  # - icon: globe
+  #   url: "https://faris-hamdi.github.io"
+  #   label: Homepage
 
 # Interests
 interests:
-  - Explainable AI for Medical Imaging
-  - Computer Vision
-  - Vision–Language Models
-  - Human–Object Interaction
+  - Machine Learning
+  - Computer Vision & Vision-Language Models
+  - Medical Imaging
+  - Metaheuristic Optimization
+
 
 # Education
 education:
-  - area: B.Eng., Electronics & Communications Engineering
-    institution: Delta Higher Institute of Engineering & Technology (DHIET)
-    date_start: 2021-10-01
+  - area: B.Eng. in Communications and Electronics Engineering
+    institution: Delta Higher Institute for Engineering and Technology (DHIET)
+    date_start: 2021-09-01
     date_end: 2026-06-01
-    summary: "Focus: Machine Learning, Computer Vision & Language"
+    summary: |
+      Focus: Machine Learning and Computer Vision-Language  
+      Honors: Dean’s Award for Research Excellence (2024, 2025); Departmental Student of the Year (2025)
 
 # Experience
 work:
-  - position: Research Intern 
-    company_name: State University of New York at Buffalo (Remote); Visual Computing Lab (Prof. Junsong Yuan)
-    company_url: ""
+  - position: Research Intern
+    company_name: Visual Computing Lab, State University of New York at Buffalo
+    company_url: "https://cse.buffalo.edu/~jsyuan/index.html"
     company_logo: "ub.png"
     date_start: 2024-10-01
     date_end: ""
-    summary: >
-      Contributed to research on reasoning of counterfactual explanations for MRI and human–object interaction (HOI) detection.
+    summary: |
+      Developing frameworks for **visual severity grading and lesion detection in MRI scans** (SPIDER, BraTS, and Retina MNIST datasets).  
+      Contributed to **Human–Object Interaction (HOI)** detection on V-COCO and HICO-DET by curating a basketball-specific dataset and analyzing the QPIC transformer approach.
 
-  - position: Research Intern 
-    company_name: Carnegie Mellon University (Remote); Xu Lab (Prof. Min Xu)
-    company_url: ""
+  - position: Research Intern
+    company_name: Xu Lab, Carnegie Mellon University
+    company_url: "https://xulabs.github.io/min-xu/"
     company_logo: "cmu.svg"
     date_start: 2025-04-01
     date_end: 2025-07-31
-    summary: >
-      Worked on CryoET volume alignment and classification experiments.
+    summary: |
+      Supported the development of a **foundation model framework for Cryo-electron Tomography (Cryo-ET)** subtomogram alignment and protein classification using **equivariant transformers** and **contrastive learning** for low signal-to-noise conditions.
 
-  - position: Research Lead & Think Tank Member
-    company_name: Zewail City Computing Society (Applied ML Lab)
-    company_url: ""
-    company_logo: "zccs.png"
+  - position: Research Lead
+    company_name: Applied Machine Learning Lab, Brownian Labs
+    company_url: "https://www.linkedin.com/company/brownian-labs/"
+    company_logo: "brownian.png"
     date_start: 2024-09-01
     date_end: ""
-    summary: >
-      Leading AI research initiatives; helped establish one of Egypt's first student-led AI research labs.
+    summary: |
+      Leading a team developing a **computer vision framework for dermoscopic image analysis** to improve early skin-cancer detection in underrepresented populations.  
+      Co-founded the **Applied Machine Learning Lab**, defining its research roadmap and fostering AI research collaborations through the Brownian Labs Think Tank.
 
-  - position: Undergraduate Researcher 
-    company_name: Delta Higher Institute of Engineering & Technology (DHIET); Optimization, Metaheuristics, and Applied Machine Learning Lab (Prof. El-Sayed M. El-Kenawy (Senior Member, IEEE; DHIET), Dr. Nima Khodadadi (UC Berkeley), Prof. Marwa M. Eid (Senior Member, IEEE; DHIET))
-    company_url: ""
+  - position: Undergraduate Researcher
+    company_name: Optimization, Metaheuristics, and Applied Machine Learning Lab, DHIET
+    company_url: "https://dhiet.edu.eg/"
     company_logo: "dhiet.png"
     date_start: 2023-01-01
     date_end: ""
-    summary: >
-      Conducted research in metaheuristic optimization and applied machine learning.
+    summary: |
+      Conducting research under **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)** (Senior Member, IEEE), **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** (Senior Member, IEEE).  
+      Co-authored multiple works on **metaheuristic optimization and applied machine learning**, including the development of **DBSMOA**, **Ocotillo Optimization–guided deep learning**, and **hybrid DTO–PRS** models for biomedical and agricultural applications.
+
+
+# Awards
+awards:
+  - title: Dean’s Award for Research Excellence
+    awarder: Delta Higher Institute for Engineering and Technology (DHIET)
+    date: "2025-06-01"
+    summary: "Received consecutively in 2024 and 2025 for outstanding undergraduate research performance."
+  - title: Departmental Student of the Year
+    awarder: Delta Higher Institute for Engineering and Technology (DHIET)
+    date: "2025-06-01"
+    summary: "Awarded for academic and research distinction among undergraduate students."
+  - title: 2nd Place — DevFest Mansoura Hackathon
+    awarder: Google Developer Groups (GDG Delta)
+    date: "2023-12-01"
+    summary: "Developed a data-driven ML platform connecting skilled laborers with clients; led UX and model integration."
 
 # Languages
 languages:
@@ -103,37 +124,32 @@ languages:
   - name: English
     proficiency: Fluent
 
-# Awards
-awards:
-  # - title: Dean’s Award for Research Excellence
-  #   awarder: DHIET
-  #   date: "2025-06-01"
-  #   summary: "Also received in 2024."
-  #   # icon: trophy
-  # - title: Departmental Student of the Year
-  #   awarder: DHIET
-  #   date: "2025-06-01"
-    # icon: academic-cap
-  - title: 2nd Place — DevFest Mansoura Hackathon
-    awarder: GDG Delta
-    date: "2023-12-01"
-    # icon: trophy
-    summary: |
-      Built a data-driven platform connecting skilled laborers with clients, using ML for matching, and collaborated on UX and delivery.
+# Skills
+skills:
+  - category: Programming
+    items: ["Python", "C/C++", "MATLAB"]
+  - category: ML & Data Science
+    items: ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-learn", "OpenCV"]
+  - category: Tools
+    items: ["Git/GitHub", "Linux/Unix", "LaTeX", "Jupyter", "Google Colab"]
 
 ---
-
 ## About Me
 
 {{% callout note %}}
-**Open to PhD positions (Fall 2026)**
+**Open to PhD positions — Fall 2026**
 {{% /callout %}}
 
-I am an undergraduate ECE student at [DHIET]{https://dhiet.edu.eg/}, passionate about Machine Learning, Computer Vision \& Language. At SUNY Buffalo, I had the privilege of working with [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html) on visually grounded reasoning for counterfactual explanations in MRI and contributing to Human–Object Interaction (HOI) detection on the V-COCO and HICO-DET datasets.  
+I am an undergraduate researcher in **Electronics and Communications Engineering** at the [Delta Higher Institute for Engineering and Technology (DHIET)](https://dhiet.edu.eg/), where my research focuses on **machine learning, computer vision, and vision-language modeling**. My work seeks to integrate **optimization algorithms** with **deep learning frameworks** to advance interpretable and efficient visual reasoning systems.
 
-In Spring–Summer 2025, I was honored to intern at [Prof. Min Xu’s Xu Lab](https://xulabs.github.io/min-xu/) at CMU, where I contributed to CryoET volume alignment and classification. I am also grateful for the opportunity to serve as Research Lead and Think Tank Member at the [Zewail City Computing Society (ZCCS)](https://eg.linkedin.com/company/zewail-city-computing-society), helping to guide AI research initiatives.  
+At the [Visual Computing Lab, State University of New York at Buffalo](https://cse.buffalo.edu/~jsyuan/index.html), I work with **Prof. Junsong Yuan** on **visual severity grading and lesion detection in MRI scans** and **Human–Object Interaction (HOI)** detection on the V-COCO and HICO-DET datasets. This work contributes to the broader goal of building visually grounded, explainable AI systems for complex reasoning tasks.
 
-At DHIET, I have had the privilege to work under the guidance of [Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en) (Senior Member, IEEE), [Dr. Nima Khodadadi](https://nimakhodadadi.com/) (UC Berkeley), and [Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en) (Senior Member, IEEE). I am truly thankful for their mentorship and support, which has been instrumental in co-leading multiple research projects in metaheuristic optimization and applied machine learning.  
+In Spring–Summer 2025, I joined [Prof. Min Xu’s Xu Lab at Carnegie Mellon University](https://xulabs.github.io/min-xu/), where I contributed to **foundation model research for Cryo-electron Tomography (Cryo-ET)**. My contributions involved designing pipelines for subtomogram alignment and classification using **equivariant transformers** and **noise-resilient contrastive learning**, helping address the challenge of low signal-to-noise in biological imaging.
 
-I am always excited to collaborate on challenging and meaningful research problems. If our interests align, I would love to connect regarding PhD opportunities for Fall 2026.
+Beyond academia, I serve as a **Research Lead** at [Brownian Labs](https://www.linkedin.com/company/brownian-labs/), where I co-founded the **Applied Machine Learning Lab**. Our current projects focus on **computer vision for dermoscopic imaging**, developing data-efficient frameworks for **early skin-cancer detection** in underrepresented populations.
+
+At DHIET’s **Optimization, Metaheuristics, and Applied Machine Learning Lab**, I am mentored by [Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en), [Dr. Nima Khodadadi](https://nimakhodadadi.com/), and [Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en). Under their guidance, I have developed several **hybrid metaheuristic algorithms** that integrate computational intelligence with deep neural architectures for visual understanding, biomedical diagnosis, and agricultural applications.
+
+My broader academic aspiration lies in advancing **interpretable, optimization-driven visual learning systems** that can generalize effectively across domains. I am currently **seeking PhD opportunities for Fall 2026** in **Computer Vision and Machine Learning**, and I am always open to collaborations that bridge optimization theory, visual reasoning, and real-world AI deployment.
+
 
