@@ -11,16 +11,16 @@ superuser: true
 highlight_name: true
 
 # Tagline
-role: Undergraduate Researcher in Machine Learning and Computer Vision
+role: Undergraduate Engineer and Researcher
 
 # Organizations (shown in Bio block)
 organizations:
-  - name: State University of New York at Buffalo, USA
-    url: "https://cse.buffalo.edu/~jsyuan/index.html"
-  - name: Carnegie Mellon University, USA
-    url: "https://xulabs.github.io/min-xu/"
-  - name: Brownian Labs — Applied Machine Learning Lab, Egypt
-    url: "https://www.linkedin.com/company/brownian-labs/"
+  # - name: State University of New York at Buffalo, USA
+  #   url: "https://cse.buffalo.edu/~jsyuan/index.html"
+  # - name: Carnegie Mellon University, USA
+  #   url: "https://xulabs.github.io/min-xu/"
+  # - name: Brownian Labs — Applied Machine Learning Lab, Egypt
+  #   url: "https://www.linkedin.com/company/brownian-labs/"
   - name: Delta Higher Institute for Engineering and Technology (DHIET), Egypt
     url: "https://dhiet.edu.eg/"
 
@@ -44,10 +44,11 @@ profiles:
 
 # Interests
 interests:
-  - Machine Learning
-  - Computer Vision & Vision-Language Models
-  - Medical Imaging
-  - Metaheuristic Optimization
+  - Interpretable & Reliable Vision
+  - Generative Models for Vision
+  - Vision-Language & Multimodal Learning
+  - Optimization for Efficient ML 
+
 
 
 # Education
@@ -57,8 +58,9 @@ education:
     date_start: 2021-09-01
     date_end: 2026-06-01
     summary: |
-      Focus: Machine Learning and Computer Vision-Language  
+      Focus: Computer Vision + Generative Modeling + Reliable/Interpretable ML  
       Honors: Dean’s Award for Research Excellence (2024, 2025); Departmental Student of the Year (2025)
+
 
 # Experience
 work:
@@ -69,8 +71,9 @@ work:
     date_start: 2024-10-01
     date_end: ""
     summary: |
-      Developing frameworks for **visual severity grading and lesion detection in MRI scans** (SPIDER, BraTS, and Retina MNIST datasets).  
-      Contributed to **Human–Object Interaction (HOI)** detection on V-COCO and HICO-DET by curating a basketball-specific dataset and analyzing the QPIC transformer approach.
+      Developing **Latent Visual Diffusion Reasoning (LVDR)** for **interpretable disc-/volume-level reasoning** over multi-slice scans (e.g., SPIDER, BraTS, RetinaMNIST), supporting **ordinal grading** and **presence detection**.  
+      LVDR builds on a **frozen Diffusion Autoencoder encoder** and a **slot-based memory** updated across slices to form a **latent reasoning trajectory**, enabling **step-by-step interpretability** via trajectory analyses and diffusion-based reconstructions.  
+      Contributed to **Human–Object Interaction (HOI)** detection (V-COCO, HICO-DET) by curating a basketball-specific HOI dataset and analyzing QPIC-style transformer baselines.
 
   - position: Research Intern
     company_name: Xu Lab, Carnegie Mellon University
@@ -79,7 +82,8 @@ work:
     date_start: 2025-04-01
     date_end: 2025-07-31
     summary: |
-      Supported the development of a **foundation model framework for Cryo-electron Tomography (Cryo-ET)** subtomogram alignment and protein classification using **equivariant transformers** and **contrastive learning** for low signal-to-noise conditions.
+      Supported a **foundation-model framework for Cryo-electron Tomography (Cryo-ET)**, focusing on representation learning under **low signal-to-noise** conditions.  
+      Worked on **equivariant transformers** and **contrastive learning** components for subtomogram alignment and protein particle classification.
 
   - position: Research Lead
     company_name: Applied Machine Learning Lab, Brownian Labs
@@ -88,8 +92,8 @@ work:
     date_start: 2024-09-01
     date_end: ""
     summary: |
-      Leading a team developing a **computer vision framework for dermoscopic image analysis** to improve early skin-cancer detection in underrepresented populations.  
-      Co-founded the **Applied Machine Learning Lab**, defining its research roadmap and fostering AI research collaborations through the Brownian Labs Think Tank.
+      Leading a team developing **data-efficient computer vision** for dermoscopic image analysis to strengthen early skin-cancer detection in underrepresented populations.  
+      Co-founded the **Applied Machine Learning Lab**, shaping the research roadmap and fostering collaborations through the Brownian Labs Think Tank.
 
   - position: Undergraduate Researcher
     company_name: Optimization, Metaheuristics, and Applied Machine Learning Lab, DHIET
@@ -98,8 +102,8 @@ work:
     date_start: 2023-01-01
     date_end: ""
     summary: |
-      Conducting research under **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)** (Senior Member, IEEE), **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** (Senior Member, IEEE).  
-      Co-authored multiple works on **metaheuristic optimization and applied machine learning**, including the development of **DBSMOA**, **Ocotillo Optimization–guided deep learning**, and **hybrid DTO–PRS** models for biomedical and agricultural applications.
+      Conducting research under **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)**, **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)**, and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)**.  
+      Co-authored work on **optimization for applied ML**, including **DBSMOA**, **Ocotillo Optimization–guided deep learning**, and **hybrid DTO–PRS** models—emphasizing **efficient training, feature/model selection**, and robust performance across datasets.
 
 
 # Awards
@@ -140,15 +144,17 @@ skills:
 **Open to PhD positions — Fall 2026**
 {{% /callout %}}
 
-I am an undergraduate student and researcher in **Electronics and Communications Engineering** at the [Delta Higher Institute for Engineering and Technology (DHIET)](https://dhiet.edu.eg/), where my research focuses on **machine learning, computer vision, and Biomedical Imaging**.
+I am an undergraduate researcher in **Electronics and Communications Engineering** at the [Delta Higher Institute for Engineering and Technology (DHIET)](https://dhiet.edu.eg/). My research focuses on **interpretable and reliable visual learning**, with particular interest in **generative and foundation-model–era approaches** for **auditable visual reasoning**, **uncertainty-aware decision-making**, and **robustness under distribution shift**.
 
-I have the privilege of joining **[Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html)** at the Visual Computing Lab, **State University of New York at Buffalo**, My work involves developing frameworks for visual severity grading and lesion detection in MRI scans (SPIDER, BraTS, Retina MNIST) and contributing to Human–Object Interaction (HOI) detection on the V-COCO and HICO-DET datasets.
+I am grateful to work with **[Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html)** at the Visual Computing Lab, **State University of New York at Buffalo**, where I am developing **Latent Visual Diffusion Reasoning (LVDR)**—a diffusion-autoencoder–based framework that learns **latent reasoning trajectories** over **multi-slice scans** to support **disc-/volume-level ordinal grading** and **presence detection**. LVDR is designed to move beyond single-shot predictions by exposing **step-by-step internal reasoning states**, which can be inspected through trajectory analyses and diffusion-based reconstructions.
 
-Also, I was honored to join **[Prof. Min Xu](https://xulabs.github.io/min-xu/)** at **Carnegie Mellon University’s Xu Lab**, where I contributed to foundation model research for Cryo-electron Tomography (Cryo-ET) for developing robust subtomogram alignment and protein particle classification frameworks tackling the challenges of representation learning under low signal-to-noise conditions.
+Previously, I was fortunate to join **[Prof. Min Xu](https://xulabs.github.io/min-xu/)**’s lab at **Carnegie Mellon University**, where I contributed to representation learning for **Cryo-electron Tomography (Cryo-ET)**, focusing on **foundation-model components** for low signal-to-noise settings using **equivariant transformers** and **contrastive learning**.
 
-I also serve as **Research Lead** at **[Brownian Labs](https://www.linkedin.com/company/brownian-labs/)**, where I had the opportunity to co-found the **Applied Machine Learning Lab**. One of our labs focuses on computer vision applications in medical imaging, including the development of data-efficient frameworks for dermoscopic image analysis to improve early skin cancer detection in underrepresented populations.
+I also serve as **Research Lead** at **[Brownian Labs](https://www.linkedin.com/company/brownian-labs/)**, where I had the opportunity to co-found the **Applied Machine Learning Lab**. One focus of our lab is computer vision applications, including data-efficient frameworks for dermoscopic image analysis to improve early detection of skin cancer in underrepresented populations.
 
-At DHIET’s **Metaheuristics Optimization for Applied Machine Learning Lab**, I have the privilege of being mentored by **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)** (Senior Member, IEEE; DHIET), **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** (Senior Member, IEEE; DHIET). Under their guidance, I have co-led multiple research projects in metaheuristic optimization and applied machine learning, developing several novel algorithms and hybrid models — including the *Dynamic Binary Swordfish Movement Optimization Algorithm (DBSMOA)* and *Ocotillo Optimization–guided deep learning frameworks* — applied to problems in biomedical imaging, plant pathology, and smart agriculture.
+At DHIET, I am grateful to be mentored by **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)** (Senior Member, IEEE; DHIET), **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** (Senior Member, IEEE; DHIET) on **optimization for applied machine learning**, including metaheuristic-driven feature/model selection and efficiency-oriented training frameworks such as the *Dynamic Binary Swordfish Movement Optimization Algorithm (DBSMOA)*.
 
-**I am currently seeking PhD opportunities for Fall 2026 in Computer Vision and Machine Learning, and I would be delighted to connect with researchers and labs pursuing similar directions.**
+**I am currently seeking PhD opportunities for Fall 2026 in Computer Vision and Machine Learning (generative/foundation models, interpretability, robustness, and evaluation), and I would be grateful to connect with researchers and labs pursuing related directions.**
+
+
 
