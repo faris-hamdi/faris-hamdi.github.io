@@ -13,4 +13,5 @@ date: 2025-01-04
 publishDate: '2025-08-18T10:12:39.705256Z'
 publication_types:
 - manuscript
+publication: '*Under review in Energy Reports, 2025*'
 ---

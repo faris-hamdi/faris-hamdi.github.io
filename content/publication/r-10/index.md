@@ -18,5 +18,4 @@ publication_types:
 - article-journal
 publication: '*Journal of Artificial Intelligence and Metaheuristics*'
 doi: 10.54216/JAIM.080104
-url_pdf: https://your-site.example/ocoa_aam.pdf
 ---

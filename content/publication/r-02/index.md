@@ -12,4 +12,5 @@ date: 2025-01-07
 publishDate: '2025-08-18T10:12:39.698925Z'
 publication_types:
 - manuscript
+publication: '*Under review at Potato Research, 2025*'
 ---
