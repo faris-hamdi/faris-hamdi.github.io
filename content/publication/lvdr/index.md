@@ -1,5 +1,5 @@
 ---
-title: Visual Diffusion Reasoning for Explainable Pathology Grading
+title: Latent Visual Diffusion Reasoning for Explainable Pathology Grading
 authors:
 - Faris H. Rizk
 - Nan Xi
