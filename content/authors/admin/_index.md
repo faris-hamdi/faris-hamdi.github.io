@@ -138,23 +138,22 @@ skills:
     items: ["Git/GitHub", "Linux/Unix", "LaTeX", "Jupyter", "Google Colab"]
 
 ---
+
 ## About Me
 
 {{% callout note %}}
 **Open to PhD positions — Fall 2026**
 {{% /callout %}}
 
-I am an undergraduate researcher in **Electronics and Communications Engineering** at the [Delta Higher Institute for Engineering and Technology (DHIET)](https://dhiet.edu.eg/). My research focuses on **interpretable and reliable visual learning**, with particular interest in **generative and foundation-model–era approaches** for **auditable visual reasoning**, **uncertainty-aware decision-making**, and **robustness under distribution shift**.
+I’m undergraduate engineer & researcher in the Dept. of Communications and Electronics Engineering at the [Delta Higher Institute for Engineering and Technology (DHIET)](https://dhiet.edu.eg/). Broadly, I’m interested in building **vision and multimodal systems whose internal computations can be inspected, stress-tested, and trusted**—especially in the **foundation-model era**, where fluent outputs can hide brittle evidence pathways.
 
-I am grateful to work with **[Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html)** at the Visual Computing Lab, **State University of New York at Buffalo**, where I am developing **Latent Visual Diffusion Reasoning (LVDR)**—a diffusion-autoencoder–based framework that learns latent reasoning trajectories over multi-slice scans to support disc-/volume-level ordinal grading and presence detection. LVDR is designed to move beyond single-shot predictions by exposing step-by-step internal reasoning states, which can be inspected through trajectory analyses and diffusion-based reconstructions.
+I currently work with **[Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html)** at the Visual Computing Lab, **University at Buffalo**, where I’m developing **Latent Visual Diffusion Reasoning (LVDR)**: a diffusion–latent framework for **interpretable volumetric visual inference** in medical imaging. Rather than producing single-shot predictions, LVDR exposes trajectory-like intermediate states that can be analyzed and reconstructed to study *how* evidence accumulates across a scan.
 
-Previously, I was fortunate to join **[Prof. Min Xu](https://xulabs.github.io/min-xu/)**’s lab at **Carnegie Mellon University**, where I contributed to representation learning for **Cryo-electron Tomography (Cryo-ET)**, focusing on foundation-model components for low signal-to-noise settings using equivariant transformers and contrastive learning.
+Previously, I worked with **[Prof. Min Xu](https://xulabs.github.io/min-xu/)** at **Carnegie Mellon University** on representation learning for **Cryo-electron Tomography (Cryo-ET)**, exploring noise-resilient pretraining and equivariant components for low signal-to-noise scientific imaging.
 
-I also serve as **Research Lead** at **[Brownian Labs](https://www.linkedin.com/company/brownian-labs/)**, where I had the opportunity to co-found the **Applied Machine Learning Lab**. One focus of our lab is computer vision applications, including data-efficient frameworks for dermoscopic image analysis to improve early detection of skin cancer in underrepresented populations.
+I also serve as **Research Lead** at **[Brownian Labs](https://www.linkedin.com/company/brownian-labs/)**, where I co-founded the **Applied Machine Learning Lab**. At DHIET, I’m mentored by **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)**, **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** on **optimization for applied machine learning**, including metaheuristic-driven feature/model selection and efficiency-oriented training pipelines.
 
-At DHIET, I am grateful to be mentored by **[Prof. El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en)** (Senior Member, IEEE; DHIET), **[Dr. Nima Khodadadi](https://nimakhodadadi.com/)** (UC Berkeley), and **[Prof. Marwa M. Eid](https://scholar.google.com/citations?user=OV-YIEAAAAAJ&hl=en)** (Senior Member, IEEE; DHIET) on **optimization for applied machine learning**, including metaheuristic-driven feature/model selection and efficiency-oriented training frameworks such as the *Dynamic Binary Swordfish Movement Optimization Algorithm (DBSMOA)*.
-
-**I am currently seeking PhD opportunities for Fall 2026 in Computer Vision and Machine Learning (generative/foundation models, interpretability, robustness, and evaluation), and I would be grateful to connect with researchers and labs pursuing related directions.**
-
+**PhD interests (Fall 2026):** reliable and interpretable computer vision and multimodal learning—building models with inspectable intermediate representations, principled uncertainty/abstention, and strong robustness/evaluation under noise, artifacts, and distribution shift; often leveraging generative and foundation-model paradigms.  
+**Contact:** [Faris.Hamdi.Rizk@gmail.com](mailto:Faris.Hamdi.Rizk@gmail.com)
 
 
