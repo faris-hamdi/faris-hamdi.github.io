@@ -12,5 +12,5 @@ date: 2025-01-03
 publishDate: '2025-08-18T10:12:39.711458Z'
 publication_types:
 - manuscript
-publication: '*Under review in Cluster Computing, 2025*'
+publication: '*Cluster Computing, 2025*'
 ---

@@ -11,5 +11,6 @@ date: 2025-01-09
 publishDate: '2025-08-18T10:12:39.692552Z'
 publication_types:
 - manuscript
-publication: '*Under review at Journal of Big Data, 2025*'
+publication: '*Journal of Big Data, 2025*'
+doi: 10.1186/s40537-025-01328-x
 ---

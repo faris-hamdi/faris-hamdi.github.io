@@ -13,4 +13,9 @@ publishDate: '2025-08-18T10:12:39.698925Z'
 publication_types:
 - manuscript
 publication: '*Under review at Potato Research, 2025*'
+
+links:
+- name: PDF
+  url: uploads/iHow_Disease_Detection.pdf
+
 ---
