@@ -9,4 +9,6 @@ publishDate: '2025-12-05T15:12:41.885407Z'
 publication_types:
 - paper-conference
 publication: '*Submitted to MIDL 2026*'
+doi: faris-hamdi.github.io/uploads/LVDR_Latent_Visual_Diffusion_Reasoning_Faris_Ibrahim.pdf
+
 ---
